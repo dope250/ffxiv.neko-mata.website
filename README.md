@@ -1,5 +1,7 @@
 # ffxiv.neko-mata.website
 
+[Link](https://green-island-03298fe03.4.azurestaticapps.net)
+
 Website Requirements:
 
 * Pages
@@ -31,3 +33,4 @@ Color pallets:
 
 Fixes:
 * [postcss on Windows issue](https://github.com/gohugoio/hugo/issues/7333#issuecomment-1048571703)
+
