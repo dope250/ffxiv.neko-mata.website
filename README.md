@@ -1,6 +1,6 @@
 # ffxiv.neko-mata.website
 
-[Link](https://green-island-03298fe03.4.azurestaticapps.net)
+[Link](https://witty-water-048cfc203.4.azurestaticapps.net)
 
 Deploy via swa.
 

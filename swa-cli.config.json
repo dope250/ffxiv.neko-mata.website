@@ -3,7 +3,9 @@
   "configurations": {
     "ffxiv.neko-mata.website": {
       "appLocation": "public",
-      "outputLocation": "."
+      "outputLocation": ".",
+      "appName": "ffxiv-neko-mata-website",
+      "resourceGroup": "electronicPing"
     }
   }
 }
