@@ -1,6 +1,6 @@
 module hugoplate.netlify.app
 
-go 1.19.7
+go 1.19
 
 require (
 	github.com/gethugothemes/hugo-modules/accordion v0.0.0-20240215103202-c030d4222242 // indirect
