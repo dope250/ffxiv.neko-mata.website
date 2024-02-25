@@ -2,6 +2,8 @@
 
 [Link](https://green-island-03298fe03.4.azurestaticapps.net)
 
+Deploy via swa.
+
 Website Requirements:
 
 * Pages
