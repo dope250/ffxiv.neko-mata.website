@@ -28,3 +28,6 @@ Color pallets:
 
 * [nier automata jean paul Color Palette](https://www.color-hex.com/color-palette/1023731)
 * [Black Grey Red White Dark Space](https://colorhunt.co/palette/0000003e3636d72323f5eded)
+
+Fixes:
+* [postcss on Windows issue](https://github.com/gohugoio/hugo/issues/7333#issuecomment-1048571703)

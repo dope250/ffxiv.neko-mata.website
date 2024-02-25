@@ -1,0 +1,64 @@
+############# German navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Die Nekos"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "Elements"
+url = "elements/"
+weight = 3
+
+[[main]]
+name = "Blog"
+url = "blog/"
+weight = 4
+
+[[main]]
+weight = 5
+name = "Häuser"
+hasChildren = true
+
+[[main]]
+parent = "Häuser"
+name = "Contact"
+url = "contact/"
+
+[[main]]
+parent = "Häuser"
+name = "Authors"
+url = "authors/"
+
+[[main]]
+parent = "Häuser"
+name = "Categories"
+url = "categories/"
+
+[[main]]
+parent = "Häuser"
+name = "404 Page"
+url = "404/"
+
+
+# footer menu
+[[footer]]
+name = "Die Nekos"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "Blog"
+url = "blog/"
+weight = 2
+
+[[footer]]
+name = "Impressum"
+url = "privacy-policy/"
+weight = 3
