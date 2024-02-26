@@ -23,29 +23,23 @@ weight = 4
 
 [[main]]
 weight = 5
-name = "Häuser"
+name = "Plots"
 hasChildren = true
 
 [[main]]
-parent = "Häuser"
-name = "Contact"
-url = "contact/"
+parent = "Plots"
+name = "Neko:Katzenkörbchen"
+url = "plot_katzenkoerbchen/"
 
 [[main]]
-parent = "Häuser"
-name = "Authors"
-url = "authors/"
+parent = "Plots"
+name = "Neko:Taverne"
+url = "plot_taverne/"
 
 [[main]]
-parent = "Häuser"
-name = "Categories"
-url = "categories/"
-
-[[main]]
-parent = "Häuser"
-name = "404 Page"
-url = "404/"
-
+parent = "Plots"
+name = "Neko:Events"
+url = "plot_events/"
 
 # footer menu
 [[footer]]

@@ -1,6 +1,6 @@
 ---
 title: "Kontakt"
 meta_title: ""
-description: "this is meta description"
+description: "Kontakformular der Neko:Mata FC Website"
 draft: false
 ---

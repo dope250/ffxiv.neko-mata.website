@@ -1,12 +1,11 @@
 ---
-title: "How to build an Application with modern Technology"
+title: "Alles ist möglich Samstag!"
 meta_title: ""
-description: "this is meta description"
-date: 2022-04-04T05:00:00Z
+description: ""
+date: 2024-02-26T05:00:00Z
 image: "/images/image-placeholder.png"
-categories: ["Application", "Data"]
-author: "John Doe"
-tags: ["nextjs", "tailwind"]
+categories: ["Neko:Event"]
+author: "Dopine L. Faerondal"
 draft: false
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: "{{ replace .File.ContentBaseName "-" " " | title }}"
 meta_title: ""
-description: "this is meta description"
+description: ""
 date: {{ .Date }}
 image: "/images/image-placeholder.png"
-categories: ["Application", "Data"]
-author: "Dopine Faerondal"
+categories: ["Neko:Event", "Neko:Meet"]
+author: "Dopine L. Faerondal"
 draft: false
 ---

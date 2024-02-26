@@ -1,12 +1,11 @@
 ---
-title: "How to build an Application with modern Technology"
+title: "Neko:Meet 13"
 meta_title: ""
-description: "this is meta description"
-date: 2022-04-04T05:00:00Z
+description: ""
+date: 2024-02-26T05:00:00Z
 image: "/images/image-placeholder.png"
-categories: ["Architecture"]
-author: "John Doe"
-tags: ["silicon", "technology"]
+categories: ["Neko:Meet"]
+author: "Dopine L. Faerondal"
 draft: false
 ---
 
@@ -14,7 +13,7 @@ Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam er
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
-## Creative Design
+## Neko:Meet 13
 
 Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 

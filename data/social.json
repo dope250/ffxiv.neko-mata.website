@@ -1,24 +1,19 @@
 {
   "main": [
     {
-      "name": "facebook",
-      "icon": "fab fa-facebook",
-      "link": "https://www.facebook.com/"
+      "name": "Discord",
+      "icon": "fab fa-discord",
+      "link": "#"
     },
     {
-      "name": "twitter",
-      "icon": "fab fa-twitter",
-      "link": "https://twitter.com/"
+      "name": "Chevereto",
+      "icon": "fab fa-instagram",
+      "link": "https://img.electronicping.net/album/Final-Fantasy-XIV-Neko%3AMata.28i"
     },
     {
-      "name": "github",
+      "name": "GitHub",
       "icon": "fab fa-github",
-      "link": "https://www.github.com/"
-    },
-    {
-      "name": "linkedin",
-      "icon": "fab fa-linkedin",
-      "link": "https://www.linkedin.com/"
+      "link": "https://github.com/dope250/ffxiv.neko-mata.website"
     }
   ]
 }

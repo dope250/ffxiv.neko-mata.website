@@ -43,12 +43,11 @@ features:
 
   - title: "ฅ^•ﻌ•^ฅ"
     image: "/images/service-3.png"
-    content: "Egal was wir auch gemeinsam tun, am wichtigsten ist es uns, dass es *Spaß* macht. Daher gibt es bei uns auch *weder Pflichten noch Zwänge*. Jedoch haben wir eine Bedingung: Wir möchten gerne, dass alle Mitglieder auch unserem Discord joinen ♥ All unsere Aktivitäten organisieren wir darüber. Wichtig dabei ist, dass dennoch **keine** Voice Pflicht besteht! Bei uns soll sich jeder und jede wohl fühlen können, daher ist unsere FC ein *Safe Place* für alle, **unabhängig** des *Geschlechts*, der *Herkunft*, *Religion*, *Sexualität* oder anderer *Merkmale*."
+    content: "Egal was wir auch gemeinsam tun, am wichtigsten ist es uns, dass es *Spaß* macht. Daher gibt es bei uns auch *weder Pflichten noch Zwänge*. Jedoch haben wir eine Bedingung:"
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Wir möchten gerne, dass alle Mitglieder auch unserem **Discord** joinen ♥ Alle unsere Aktivitäten organisieren wir darüber."
+      - "Wichtig dabei ist, dass dennoch **keine** Voice Pflicht besteht!"
+      - "Bei uns soll sich jeder und jede wohl fühlen können, daher ist unsere FC ein *Safe Place* für alle, **unabhängig** des *Geschlechts*, der *Herkunft*, *Religion*, *Sexualität* oder anderer *Merkmale*."
     button:
       enable: false
       label: ""
