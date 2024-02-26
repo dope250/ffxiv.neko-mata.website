@@ -1,7 +1,7 @@
 ---
 title: Dopine L. Faerondal
 email: doep250@electronicping.net
-image: "/images/avatar-dopine.png"
+image: "/images/author-dopine.png"
 description: this is meta description
 social:
   - name: github

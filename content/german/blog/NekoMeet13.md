@@ -3,20 +3,18 @@ title: "Neko:Meet 13"
 meta_title: ""
 description: ""
 date: 2024-02-26T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/blog/neko-meet13.jpg"
 categories: ["Neko:Meet"]
 author: "Dopine L. Faerondal"
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Am 24. Februar war wieder Neko:Meet! Gut besucht war es allermal, so das kaum noch Platz in den Räumlichkeiten waren.
 
 ## Neko:Meet 13
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Es kamen reichlich Mitglieder zusammen, um wichtige Angelegenheiten zu besprechen und Entscheidungen zu treffen. Die Versammlung begann mit einer Begrüßung aller Anwesenden und einer kurzen Vorstellung neuer Ränge und Aufstiege für neue sowie bestehende Mitglieder. 
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Anschließend wurden aktuelle Projekte und Herausforderungen diskutiert, darunter die Organisation von Gruppenaktivitäten, die Planung von Gildenveranstaltungen und die Verteilung von Ressourcen. Es wurden auch Ideen zur Verbesserung des Gemeinschaftsgefühls und zur Förderung des Zusammenhalts innerhalb der Gilde ausgetauscht. Wichtige Entscheidungen wurden demokratisch getroffen, wobei jedes Mitglied die Möglichkeit hatte, seine Meinung zu äußern und Vorschläge einzubringen. 
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Am Ende des Meetings wurden Aufgaben verteilt und Ziele für die nächste Zeit festgelegt, um sicherzustellen, dass die Freie Gesellschaft weiterhin erfolgreich und harmonisch zusammenarbeitet.

@@ -22,8 +22,8 @@ mainSections = ["blog"]
 # contact form action
 contact_form_action = "https://airform.io/dope250@electronicping.net" # contact form works with [https://airform.io/] or [https://formspree.io]
 # google tag manager, see https://developers.google.com/tag-manager/
-google_tag_manager = "" # example: G-XXXXXXXXXX
-google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
+#google_tag_manager = "" # example: G-XXXXXXXXXX
+#google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
@@ -57,9 +57,9 @@ show_categories = true
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
 keywords = ["Final Fantasy XIV", "Freie Gesellschaft", "Gilde"]
-description = "Neko:Mata Freie Gesellschaft"
+description = "Neko:Mata | Alpha/Light | FC"
 author = "Fio Inari"
-image = "images/og-image.png"
+image = "images/og-image.jpg"
 
 
 # site verifications

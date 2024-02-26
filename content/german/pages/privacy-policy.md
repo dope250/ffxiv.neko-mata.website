@@ -32,4 +32,3 @@ Alle Screenshots; Logos und/oder Namensnennung(en) aus dem Spiel [FINAL FANTASY 
 * © SQUARE ENIX CO., LTD. All Rights Reserved.
 
 Made with [Hugo](https://gohugo.io). [Hugoplate](https://github.com/zeon-studio/hugoplate) designed & developed by [Zeon Studio](https://zeon.studio) with minor changes from [eP](https://electronicping.net).
-* 
