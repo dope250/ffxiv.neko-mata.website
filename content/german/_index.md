@@ -12,7 +12,7 @@ banner:
 # Features
 features:
   - title: "⋆ ˚｡⋆୨୧˚   Was wir bieten   ˚୨୧⋆｡˚ ⋆"
-    image: "/images/service-1.png"
+    image: "/images/service-offering.png"
     content: ""
     bulletpoints:
       - "Eine freundliche & hilfsbereite Community"
@@ -27,7 +27,7 @@ features:
       link: "#"
 
   - title: "⋆ ˚｡⋆୨୧˚  Aktivitäten   ˚୨୧⋆｡˚ ⋆"
-    image: "/images/service-2.png"
+    image: "/images/service-activities.png"
     content: ""
     bulletpoints:
       - "Regelmäßige **Neko:Meets**"
@@ -42,7 +42,7 @@ features:
       link: "#"
 
   - title: "ฅ^•ﻌ•^ฅ"
-    image: "/images/service-3.png"
+    image: "/images/service-needs.png"
     content: "Egal was wir auch gemeinsam tun, am wichtigsten ist es uns, dass es *Spaß* macht. Daher gibt es bei uns auch *weder Pflichten noch Zwänge*. Jedoch haben wir eine Bedingung:"
     bulletpoints:
       - "Wir möchten gerne, dass alle Mitglieder auch unserem **Discord** joinen ♥ Alle unsere Aktivitäten organisieren wir darüber."
@@ -54,7 +54,7 @@ features:
       link: ""
 
   - title: ""
-    image: "/images/service-2.png"
+    image: "/images/service-finish.png"
     content: "Bist du neugierig auf uns geworden?</br >Dann sei nicht scheu und melde dich bei uns!</br >~ Fio Inari ~"
     button:
       enable: false
