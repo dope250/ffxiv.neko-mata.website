@@ -7,9 +7,9 @@ draft: false
 
 #### Lavendelbeete; Bezirk 11; Grundstück 3
 
-**Entdeckt unser Paradies: Unser Landgut in Lavendelbeete 11. Bezirk Nr. 3!**
+**Entdeckt unser Paradies: Unser Grundstück in Lavendelbeete: 11. Bezirk; Nr. 3!**
 
-Willkommen in Lavendelbeete, unserem gemeinsamen Rückzugsort und dem perfekten Treffpunkt für unsere FC "Neko:Mata". Hier in **Lavendelbeete 11. Bezirk Nr. 3** erleben wir die perfekte Symbiose aus Gemeinschaft und Erholung.
+Willkommen in Lavendelbeete, unserem gemeinsamen Rückzugsort und dem perfekten Treffpunkt für unsere FC "Neko:Mata". Hier im **Katzenkörbchen** erleben wir die perfekte Symbiose aus Gemeinschaft und Erholung.
 
 Unser Grundstück bietet nicht nur eine bezaubernde Aussicht, sondern auch unzählige Möglichkeiten. Von gemeinsamen Trainings und Strategiebesprechungen bis hin zu entspannten Zusammenkünften – hier können wir uns entfalten.
 
