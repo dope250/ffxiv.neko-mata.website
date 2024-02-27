@@ -1,5 +1,5 @@
 ---
-title: "Neko:Events"
+title: "Events"
 meta_title: ""
 description: "Beschreibung FC Haus Events"
 draft: false

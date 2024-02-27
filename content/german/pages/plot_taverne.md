@@ -1,5 +1,5 @@
 ---
-title: "Neko:Taverne"
+title: "Taverne"
 meta_title: ""
 description: "Beschreibung FC Haus Taverne"
 draft: false

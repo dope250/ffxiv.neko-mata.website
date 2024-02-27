@@ -1,5 +1,5 @@
 ---
-title: "Neko:Katzenkörbchen"
+title: "Katzenkörbchen"
 meta_title: ""
 description: "Beschreibung FC Haus Katzenkörbchen"
 draft: false
