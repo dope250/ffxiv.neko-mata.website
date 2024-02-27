@@ -18,3 +18,5 @@ Die Lage in Shirogane, einem lebhaften Viertel mit einer Vielzahl von Aktivität
 Unser mittleres Grundstück ist nicht nur ein Ort für Events, sondern auch ein Ort, an dem Erinnerungen geschaffen werden. Mit seiner einladenden Atmosphäre und seinem charmanten Ambiente ist es der perfekte Ort, um besondere Momente mit Freunden, Familie und der gesamten FC zu teilen.
 
 Verpasse nicht die Gelegenheit, unser Grundstück in Shirogane, Bezirk 1, Grundstück 59, für deine nächste Veranstaltung zu nutzen und unvergessliche Erlebnisse zu schaffen. Kontaktiere uns noch heute, um mehr über dieses einzigartige Angebot zu erfahren und deine Veranstaltungsträume wahr werden zu lassen!
+
+{{< slider dir="/images/gallery/events" class="max-w-[800px] ml-0" height="800" width="800" webp="true" command="Fit" option="" zoomable="true" >}}

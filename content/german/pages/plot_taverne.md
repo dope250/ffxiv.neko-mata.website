@@ -18,3 +18,5 @@ Unser kleines Grundstück mag zwar bescheiden sein, aber es steckt voller Charme
 Die Lage in Shirogane, einem belebten Viertel mit einer Fülle von Aktivitäten und Sehenswürdigkeiten, macht unsere Taverne zu einem beliebten Anlaufpunkt für Reisende und Einheimische gleichermaßen. Egal, ob du auf der Suche nach einem leckeren Essen, einem erfrischenden Getränk oder einfach nur nach einer entspannten Atmosphäre bist – hier wirst du fündig.
 
 Verpasse nicht die Gelegenheit, unsere Taverne auf dem kleinen Grundstück in Shirogane, Bezirk 1, Grundstück 58, zu besuchen und die einzigartige Atmosphäre zu erleben. Wir freuen uns darauf, dich bald bei uns begrüßen zu dürfen!
+
+{{< slider dir="/images/gallery/taverne" class="max-w-[800px] ml-0" height="800" width="800" webp="true" command="Fit" option="" zoomable="true" >}}
