@@ -2,12 +2,12 @@
 # Banner
 banner:
   title: "♡-lich Willkommen bei Neko:Mata :3"
-  content: "Wir sind eine gemütliche **Freie Gesellschaft** auf **Alpha** und auf der Suche nach neuen Mitgliedern!"
+  content: "Est. 23.08.2022 - Wir sind eine gemütliche **Freie Gesellschaft** auf **Alpha** und auf der Suche nach neuen Mitgliedern!"
   image: "/images/banner.png"
   button:
     enable: false
-    label: "Get Started For Free"
-    link: "#"
+    label: "Zur Lodestone Seite"
+    link: "https://de.finalfantasyxiv.com/lodestone/freecompany/9279948507173619670/"
 
 # Features
 features:

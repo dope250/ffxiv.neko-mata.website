@@ -38,8 +38,8 @@ preloader = "images/avatar.png" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "Kontaktiere uns!"
-link = "contact"
+label = "Zum Lodestone"
+link = "https://de.finalfantasyxiv.com/lodestone/freecompany/9279948507173619670/"
 
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search

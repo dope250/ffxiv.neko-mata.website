@@ -6,6 +6,14 @@ image: "/images/NekoMata_Logo.svg"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+> Eine Nekomata ist ein fiktives Wesen aus dem japanischen Volksglauben, das sich aus einer Hauskatze entwickeln kann, aber auch wild in bestimmten Bergregionen Japans und Chinas hausen soll. Sie gehört zur Gruppe der höheren Dämonen, der Yōkai.
+
+#### ฅ^•ﻌ•^ฅ
+
+Unser Altersdurchschnitt liegt bei 30+. Wir erzählen uns manchmal gerne schmutzige Witze, bekommen aber auch dafür jeden Tag beim Einloggen mindestens einen Flachwitz oder Anmachspruch aufgedrückt.
+
+Unsere Geduld ist grenzenlos, denn wir wissen, dass guter Content Zeit und Mühe erfordert. Wir haben kein Problem damit, durch unsere Fehler, auch mal auf dem Boden zu liegen und die Mechaniken zu lernen während die Profis den Inhalt mit ihrer Leidenschaft und Können rocken.
+
+Wir sind ein Team, das sich gegenseitig unterstützt und inspiriert, und wir sind stolz darauf, ein gemeinsames Ziel zu erreichen und dabei Spaß zu haben.
 
 {{< gallery dir="images/gallery/nekos" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}

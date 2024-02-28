@@ -7,7 +7,7 @@ draft: false
 
 #### Lavendelbeete; Bezirk 11; Grundstück 3
 
-**Entdeckt unser Paradies: Unser Grundstück in Lavendelbeete: 11. Bezirk; Nr. 3!**
+**Herzlich Willkommen im Katzenpalast! Gib Pfötchen und stelle dir vor, du wärst ein Teil vom Neko Paradise. Schau dich gerne um ♥**
 
 Willkommen in Lavendelbeete, unserem gemeinsamen Rückzugsort und dem perfekten Treffpunkt für unsere FC "Neko:Mata". Hier im **Katzenkörbchen** erleben wir die perfekte Symbiose aus Gemeinschaft und Erholung.
 

@@ -13,17 +13,17 @@ testimonials:
   - name: "Zoe Silvercloud"
     designation: "Operator"
     avatar: "/images/avatar-zoe.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Mit voller Hingabe unsere Event- sowie Neuzugangsmanagerin und Videoschnittprofi."
 
   - name: "Silas Silvercloud"
     designation: "Operator"
     avatar: "/images/avatar-silas.png"
-    content: "Verliebt in seine Tauchboote und Luftschiffe. Wohnt und schläft in der Werkstatt. Bittet darum ihn ab und an zu besuchen sowie Essen mitzubringen."
+    content: "Verliebt in seine Tauchboote und Luftschiffe. Wohnt und schläft in der Werkstatt. Bittet regelmäßig darum ihn ab und an zu besuchen sowie Essen mitzubringen, da er sich sonst vom Garten ernähren muss."
 
   - name: "Aes Mana"
     designation: "Operator"
     avatar: "/images/avatar-aes.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Holt jeden wieder auf den Boden der Tatsachen zurück und versteht es, perfekte Ansagen zu machen die man überhaupt nicht missverstehen kann."
 
 # don't create a separate page
 _build:
