@@ -8,7 +8,7 @@ testimonials:
   - name: "Fio Inari"
     designation: "Commander"
     avatar: "/images/avatar-fio.png"
-    content: "Gute Seele und Organisatorin der chaotischen Nekos."
+    content: "Gute Seele und Organisatorin der chaotischen Nekos. Stets ihr kleines, nicht mit bunten Hintergrund, Notizbüchlein alles im Blick und alles notiert."
 
   - name: "Zoe Silvercloud"
     designation: "Operator"
