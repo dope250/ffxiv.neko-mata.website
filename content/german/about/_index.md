@@ -6,7 +6,7 @@ image: "/images/NekoMata_Logo.svg"
 draft: false
 ---
 
-> Eine Nekomata ist ein fiktives Wesen aus dem japanischen Volksglauben, das sich aus einer Hauskatze entwickeln kann, aber auch wild in bestimmten Bergregionen Japans und Chinas hausen soll. Sie gehört zur Gruppe der höheren Dämonen, der Yōkai.
+> Eine Nekomata ist ein fiktives Wesen aus dem japanischen Volksglauben, das sich aus einer Hauskatze entwickeln kann, aber auch wild in bestimmten Bergregionen Japans und Chinas hausen soll. Sie gehört zur Gruppe der höheren Dämonen, der Yōkai. - Wikipedia
 
 #### ฅ^•ﻌ•^ฅ
 

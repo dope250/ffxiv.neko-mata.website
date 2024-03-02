@@ -1,23 +1,18 @@
 # ffxiv.neko-mata.website
 
-[Link](https://witty-water-048cfc203.4.azurestaticapps.net)
+[Link](https://neko-mata.de)
 
-Deploy via swa.
+Deploy via swa. Don't forget to add the following to the .env:
+> AZURE_SUBSCRIPTION_ID=
+> AZURE_TENANT_ID=
+> SWA_CLI_LOGIN_CLEAR_CREDENTIALS=true
+
+Depoy via swa:
+> hugo -D
 > swa deploy --env production
 
-Website requirements:
-
-* Pages
-    * Mainpage / Introduction
-    * Contact (if its not in Introduction)
-    * Rules
-    * Event / House Locations
-    * Members
-    * Gallery (embedded from img.electronicping.net or extra for a few images only)
-* Blog
-    * Simple
-    * Thumbnail capable
-    * (Optional) Categories
+For testing locally:
+> hugo server
 
 Color pallets:
 
