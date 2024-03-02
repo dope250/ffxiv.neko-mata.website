@@ -57,7 +57,7 @@ show_categories = true
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
 keywords = ["Final Fantasy XIV", "Freie Gesellschaft", "Gilde"]
-description = "Neko:Mata | Alpha/Light | FC"
+description = "Neko:Mata ist eine gemütliche Freie Gesellschaft auf Alpha"
 author = "Fio Inari"
 image = "images/og-image.jpg"
 
