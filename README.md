@@ -3,8 +3,9 @@
 [Link](https://witty-water-048cfc203.4.azurestaticapps.net)
 
 Deploy via swa.
+> swa deploy --env production
 
-Website Requirements:
+Website requirements:
 
 * Pages
     * Mainpage / Introduction
@@ -18,16 +19,6 @@ Website Requirements:
     * Thumbnail capable
     * (Optional) Categories
 
-Possibles working themes:
-
-* https://themes.gohugo.io/themes/hugoplate/ 
-    * [Demo](https://hugoplate.netlify.app/)
-* https://tailbliss.netlify.app/prose/
-    * [Demo](https://tailbliss.netlify.app/prose/)
-* https://github.com/StaticMania/hugo-cohub
-    * [Demo](https://jamstackthemes.dev/demo/theme/hugo-cohub/)
-
-
 Color pallets:
 
 * [nier automata jean paul Color Palette](https://www.color-hex.com/color-palette/1023731)
@@ -36,3 +27,5 @@ Color pallets:
 Fixes:
 * [postcss on Windows issue](https://github.com/gohugoio/hugo/issues/7333#issuecomment-1048571703)
 
+Shortcuts:
+* [Emoji Cheat Sheet](https://gohugo.io/quick-reference/emojis/)
