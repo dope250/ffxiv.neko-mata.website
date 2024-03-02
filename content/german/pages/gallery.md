@@ -1,7 +1,7 @@
 ---
 title: "Gallerie"
 meta_title: ""
-description: ""
+description: "Gallerie der FC Neko:Mata"
 draft: false
 ---
 

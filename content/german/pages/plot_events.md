@@ -1,7 +1,7 @@
 ---
 title: "Events"
 meta_title: ""
-description: "Beschreibung FC Haus Events"
+description: "Das FC Haus Neko:Events"
 draft: false
 ---
 

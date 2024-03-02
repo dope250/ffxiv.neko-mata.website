@@ -1,7 +1,7 @@
 ---
 title: "Neko:Meet 13"
 meta_title: ""
-description: ""
+description: "Alles über das Neko:Meet 13"
 date: 2024-02-26T05:00:00Z
 image: "/images/blog/neko-meet13.jpg"
 categories: ["Neko:Meet"]

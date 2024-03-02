@@ -1,7 +1,7 @@
 ---
 title: "Hey, wir sind die Nekos!"
 meta_title: "About"
-description: "FC Rooster"
+description: "Die Nekos aus der FC Neko:Mata"
 image: "/images/NekoMata_Logo.svg"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Alles ist möglich Samstag!"
 meta_title: ""
-description: ""
+description: "Neue Aktivität"
 date: 2024-02-26T05:00:00Z
 image: "/images/blog/image-placeholder.png"
 categories: ["Neko:Event"]

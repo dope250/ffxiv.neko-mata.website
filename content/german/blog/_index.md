@@ -1,5 +1,5 @@
 ---
 title: "Blog"
 meta_title: ""
-description: ""
+description: "Blog der FC Neko:Mata"
 ---
