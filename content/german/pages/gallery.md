@@ -5,6 +5,8 @@ description: "Gallerie der FC Neko:Mata"
 draft: false
 ---
 
+{{< image src="images/collage.jpg" caption="" alt="Kollage aus Bildern von verganenen Events" position="center" command="fill" option="q100" class="img-fluid" title="" webp="false" >}}
+
 #### Lust auf mehr?
 
 Alle aktuelle Bilder finden sich auf der [Bilderarchiv Seite](https://img.electronicping.net/album/Final-Fantasy-XIV-Neko%3AMata.28i) im extra dafür angelegten Album **Neko:Mata**.

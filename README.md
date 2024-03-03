@@ -14,6 +14,8 @@ Depoy via swa:
 For testing locally:
 > hugo server
 
+To create a new blogpost:
+> hugo new content /blog/%Name%.md
 Color pallets:
 
 * [nier automata jean paul Color Palette](https://www.color-hex.com/color-palette/1023731)
