@@ -17,4 +17,10 @@ social:
     link: https://img.electronicping.net
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+Dopine liebt es neue Landschaften zu erkunden, kleine Herrausforderungen zu meistern und Fotos zu machen. Sie fängt schnell an zu schmollen wenn es nicht nach ihrer Nase geht oder sie geneckt wird. Dies verfliegt aber genauso schnell wieder wie es kam und man braucht sich keine Gedanken darüber machen.
+
+Aufgewachsen ist sie ~2012 in World of Warcraft als Blutelfin und schwung dort bereits als Tierherrschafts-Jägerin ihren Bogen. Stets immer versucht schicke, aber auch Kampferprobte, Klamotten zu tragen.
+
+Nach einiger Zeit und Einsamkeit kerte sie jedoch Kalimdor und den Östlichen Königreichen endgültig den Rücken. Die Gründe sind vielfältig.
+
+Nun durchstreift sie seit mehr als 3 Jahren Eorzea als Barde und ist glücklicher als zuvor.
