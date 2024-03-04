@@ -24,3 +24,5 @@ Auf dem Abenteuer in Bozja erlebten wir von **Neko:Mata** nicht nur spannende K�
 Letztendlich war das Abenteuer in Bozja nicht nur eine Reise durch ein gefährliches Land, sondern auch eine Reise der Selbstentdeckung und des Wachstums. So kehrten wir gestärkt und vereint aus dieser Erfahrung zurück und waren bereit uns neuen Herausforderungen in Eorzea zu stellen.
 
 Für **Neko:Mata** war das Abenteuer in Bozja mehr als nur ein Spiel - es war eine epische Saga voller Spannung, Action und Freundschaft, die wir niemals vergessen werden. Und wer weiß, welche aufregenden Abenteuer noch auf uns warten.
+
+Ein paar ausgewählte Bilder unserer Unfälle in Bozja können im eigens dafür [angelegten Sub-Album](https://img.electronicping.net/album/Alles-ist-möglich-Samstag%3A-Bozja.88pe) angeschaut werden.
