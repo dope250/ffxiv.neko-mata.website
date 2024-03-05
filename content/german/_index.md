@@ -18,9 +18,9 @@ features:
       - "Eine freundliche & hilfsbereite Community"
       - "die Möglichkeit dich aktiv an der Community zu beteiligen"
       - "einen gut strukturierten Discord für herrlich chaotische Nekos und deren Freunde"
-      - "ein Plätzchen in unserem Haus:**Katzenkörbchen** Lavendelbeete 11. Bezirk,3"
-      - "ein Haus für unsere Kleiderkritik: **Neko:Taverne** Shirogane 1. Bezirk, 58 inkl. FC für unsere Alt Chars"
-      - "ein Haus für unsere Events: **Neko:Events** Shirogane 1. Bezirk, 59 inkl. FC für unsere Alt Chars"
+      - "ein Plätzchen in unserem Haus [**Neko:Katzenkörbchen**](/plot_katzenkoerbchen) Lavendelbeete 11. Bezirk,3"
+      - "ein Haus für unsere Kleiderkritik: [**Neko:Taverne**](/plot_taverne) Shirogane 1. Bezirk, 58 inkl. FC für unsere Alt Chars"
+      - "ein Haus für unsere Events: [**Neko:Events**](/plot_events) Shirogane 1. Bezirk, 59 inkl. FC für unsere Alt Chars"
     button:
       enable: false
       label: "Get Started Now"
