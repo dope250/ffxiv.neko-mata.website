@@ -20,7 +20,7 @@ Kontaktmöglichkeit unter dem [Kontaktformular](/contact).
 
 #### Cookies?
 
-Es sind keine Cookies im Einsatz daher Bedarf es keiner Zustimmung. Nicht einmal Session-Cookies! Toll nicht wahr?
+Es sind keine Cookies im Einsatz daher Bedarf es keiner Zustimmung. Nicht einmal Session-Cookies! Toll nicht war?
 
 #### Links?
 
