@@ -2,7 +2,7 @@
 title: Dopine L. Faerondal
 email: doep250@electronicping.net
 image: "/images/author-dopine.png"
-description: this is meta description
+description: Dies ist die Autorenseite von Dopine Faerondal
 social:
   - name: github
     icon: fa-brands fa-github
@@ -12,9 +12,13 @@ social:
     icon: fa-brands fa-twitter
     link: https://twitter.com/dope250
 
-  - name: instagram
+  - name: pixelfed
     icon: fa-brands fa-instagram
-    link: https://img.electronicping.net
+    link: https://eorzea.photos/i/web/profile/558482555763621947
+
+  - name: mastodon
+    icon: fa-brands fa-mastodon
+    link: https://ffxiv-mastodon.com/@dope250
 ---
 
 Dopine liebt es neue Landschaften zu erkunden, kleine Herrausforderungen zu meistern und Fotos zu machen. Sie fängt schnell an zu schmollen wenn es nicht nach ihrer Nase geht oder sie geneckt wird. Dies verfliegt aber genauso schnell wieder wie es kam und man braucht sich keine Gedanken darüber machen.
