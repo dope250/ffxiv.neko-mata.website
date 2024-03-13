@@ -1,1 +1,5 @@
-hugo new content /blog/%Name%.md
+#!/bin/bash
+
+echo "Enter title for new post:"
+read title 
+hugo new content "blog/$title.md"
