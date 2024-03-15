@@ -1,7 +1,7 @@
 ---
 title: "Alles ist möglich Samstag: Bozja!"
 meta_title: ""
-description: ""
+description: "Der erste alles ist möglich Samstag"
 date: 2024-03-03T00:20:19+01:00
 image: "/images/blog/NekoEvent_SamstagBozja.jpg"
 categories: ["Neko:Event"]

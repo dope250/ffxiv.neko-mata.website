@@ -3,8 +3,8 @@ title: "Fates in Garlemald! ♥"
 meta_title: ""
 description: ""
 date: 2024-03-01T21:54:16+01:00
-image: "/images/blog/NekoEvent_FatesinGarlemald.jpg"
-categories: ["Neko:Event"]
+image: "/images/blog/NekoFarming_FatesinGarlemald.jpg"
+categories: ["Neko:Farming"]
 author: "Dopine L. Faerondal"
 draft: false
 ---
