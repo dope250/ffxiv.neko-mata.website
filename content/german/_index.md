@@ -36,6 +36,8 @@ features:
       - "Events"
       - "Mini-Games"
       - "FC eigene Kleiderkritik"
+      - "FATE Farming"
+      - "'Alles ist möglich' Samstag"
     button:
       enable: false
       label: "Get Started Now"
