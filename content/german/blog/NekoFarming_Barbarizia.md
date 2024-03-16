@@ -3,7 +3,7 @@ title: "Babsi for ever D:"
 meta_title: ""
 description: ""
 date: 2024-03-04T22:03:01+01:00
-image: "/images/blog/NekoFarming_Barbarizia.jpg"
+image: "/images/blog/NekoFarming_Barbarizia.png"
 categories: ["Neko:Farming"]
 author: "Dopine L. Faerondal"
 draft: false

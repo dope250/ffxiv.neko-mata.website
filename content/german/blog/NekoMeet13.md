@@ -3,7 +3,7 @@ title: "Neko:Meet 13"
 meta_title: ""
 description: "Alles über das Neko:Meet 13"
 date: 2024-02-26T05:00:00Z
-image: "/images/blog/NekoMeet_13.jpg"
+image: "/images/blog/NekoMeet.png"
 categories: ["Neko:Meet"]
 author: "Dopine L. Faerondal"
 draft: false
