@@ -3,7 +3,7 @@ title: "Ostersuche bei den Nekos"
 meta_title: ""
 description: "Das Osterevent 2024"
 date: 2024-03-11T20:06:57+01:00
-image: "/images/blog/NekoEvent_Osterevent2024.jpg"
+image: "/images/blog/NekoEvent_Osterevent2024.png"
 categories: ["Neko:Event"]
 author: "Jacquie Sinjabu"
 draft: false

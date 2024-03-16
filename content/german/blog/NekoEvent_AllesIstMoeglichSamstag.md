@@ -3,7 +3,7 @@ title: "Alles ist möglich Samstag!"
 meta_title: ""
 description: "Neue Aktivität"
 date: 2024-02-26T05:00:00Z
-image: "/images/blog/NekoEvent_SamstagRoulette.jpg"
+image: "/images/blog/NekoAimS.png"
 categories: ["Neko:Event"]
 author: "Dopine L. Faerondal"
 draft: false
