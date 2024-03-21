@@ -9,7 +9,7 @@ logo_darkmode = "images/Logo_Website_Banner_Light.png"
 logo_width = "266px"
 logo_height = "52px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
-logo_webp = false
+logo_webp = true
 # logo text will only show when logo is missing.
 logo_text = "Neko:Mata"
 # navbar fixed to top
