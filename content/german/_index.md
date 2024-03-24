@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: ":heart:-lich Willkommen bei Neko:Mata :3"
-  content: "Wir sind eine gemütliche **Freie Gesellschaft** auf **Alpha** und auf der Suche nach neuen Mitgliedern!"
+  content: "Wir sind eine gemütliche **Freie Gesellschaft** auf **Alpha**"
   image: "/images/banner.png"
   button:
     enable: false
