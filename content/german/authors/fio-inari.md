@@ -10,7 +10,7 @@ Dabei ist sie stets geduldig, ausdauernd und neckt ihre Nekos von Herzen gerne.
 Sie ist unter ihrem Team dafür bekannt, dass sie gerne mit größenwahnsinnigen Ideen um die Ecke kommt 
 und diese auch in die Tat umsetzt. 
 
-Erstmalig erschien sie 2015 als Fioretta kurz Fio in *Echo of Soul* auf und machte als Erdhüterin jedes Schlachtfeld unsicher. 
+Erstmalig erschien sie 2015 als Fioretta kurz Fio in *Echo of Soul* und machte als Erdhüterin jedes Schlachtfeld unsicher. 
 Später fand sie auch Geschmack daran, als Sturmhüterin durch die Raids zu wirbeln.
 
 Nach langen Jahren und vielen Schlachten kehrte sie der Welt von *Echo of Soul* den Rücken und streifte durch viele MMO's, 
