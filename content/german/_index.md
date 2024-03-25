@@ -35,7 +35,7 @@ features:
       - "Schatzkarten"
       - "Events"
       - "Mini-Games"
-      - "FC eigene Kleiderkritik"
+      - "FC eigene Kleiderkritik (Glamalam)"
       - "FATE Farming"
       - "'Alles ist möglich' Samstag"
     button:

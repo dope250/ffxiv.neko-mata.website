@@ -1,5 +1,5 @@
 ---
-title: "Kleiderkritik bei den Nekos"
+title: "Glamalam bei den Nekos"
 meta_title: ""
 description: "Das diesmonatige Kleiderkritik Thema: Kirschblüten"
 date: 2024-03-25T08:24:44+01:00
@@ -9,7 +9,7 @@ author: "Zoe Silvercloud"
 draft: false
 ---
 
-Am 24. März fand wieder unsere Kleiderkritik mit dem Motto:
+Am 24. März fand wieder unsere Kleiderkritik (Glamalam) mit dem Motto:
 
 #### Kirschblütenfest
 
