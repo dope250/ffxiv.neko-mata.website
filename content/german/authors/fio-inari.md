@@ -1,6 +1,6 @@
 ---
 title: Fio Inari
-email: fio@electronicping.net
+email: dope250@electronicping.net
 image: "/images/author-fio.png"
 description: Dies ist die Autorenseite von Fio Inari
 ---
