@@ -3,7 +3,7 @@ title: "Kleiderkritik bei den Nekos"
 meta_title: ""
 description: "Das diesmonatige Kleiderkritik Thema: Kirschblüten"
 date: 2024-03-25T08:24:44+01:00
-image: "/images/blog/image-placeholder.png"
+image: "/images/blog/NekoEvent_KleiderkritikKirschblueten.png"
 categories: ["Neko:Event"]
 author: "Zoe Silvercloud"
 draft: false
