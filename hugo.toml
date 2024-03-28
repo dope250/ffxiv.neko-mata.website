@@ -17,6 +17,10 @@ hasCJKLanguage = false #  If hasCJKLanguage true, auto-detect Chinese/Japanese/K
 defaultContentLanguage = "de"
 enableEmoji = true
 
+[sitemap]
+changefreq = "weekly"
+filename = "sitemap.xml"
+
 ########################### Services #############################
 #[services]
 #[services.googleAnalytics]
