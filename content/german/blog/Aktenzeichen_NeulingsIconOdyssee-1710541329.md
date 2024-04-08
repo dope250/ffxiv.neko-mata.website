@@ -29,6 +29,6 @@ Aber wir gaben nicht auf. Nein, wir waren fest entschlossen, das Rätsel des Neu
 
 Aber dann endete unsere epische Suche nach der Bedeutung des Neulings-Icons(mit Erde) in einem Moment der Erleuchtung und Erleichterung. Wir haben dies selbstverständlich Todesmutig in einem Selbsttest überprüft und damit das Rätsel um "Aktenzeichen FFxiv: Ungelöst" lösen können. Wir hatten vielleicht nicht den heiligen Gral gefunden, aber wir hatten etwas viel Wertvolleres entdeckt:
 
-"Displayed on the Friend List and Free Company Menu of the sprouts that have joined the Novice Network." :exploding_head:
+"Angezeigt auf Freundeslisten und Menüs von Freie Gesellschaften eines 'Sprouts' (Anfängers) welches das Mentoren-Chat Netzwerk beigetreten ist." :exploding_head:
 
 ![Image alt](images/blog/NeulingsIconMitErde.png)
