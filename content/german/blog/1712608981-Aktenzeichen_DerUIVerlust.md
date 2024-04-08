@@ -2,11 +2,11 @@
 title: "Aktenzeichen FFxiv ungelöst: Der UI Verlust"
 meta_title: ""
 description: "Wie kann man den Verlust seiner Einstellungen verhindern? Das erfahrt ihr hier!"
-date: 2024-04-08T19:45:05+02:00
+date: 2024-04-09T19:45:05+02:00
 image: "/images/blog/Aktenzeichen_DerUiVerlust.png"
 categories: ["Neko:Aktenzeichen"]
 author: "Dopine L. Faerondal"
-draft: false
+draft: true
 ---
 
 Jeder kennt es und jeder durchlebte es mindestens einmal. Man hat viel Müh und Leid in das eigene UI (User Interface = Layout) und Makros gesteckt nur um durch irgendeinen dummen Zufall alles wieder zu verlieren.
