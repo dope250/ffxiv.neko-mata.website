@@ -25,9 +25,9 @@ Sie ist nur etwas versteckt zu finden, aber relativ simple gestaltet:
 
 Meldet am Spiel an und geht in die Charakter Übersicht. Öffnet mit Rechtsklick (oder X am Kontroller) das Untermenü eines ausgewählten Charakters. Dort gibt es den Menüpunkt *Charaktereinstellungen sichern*. Mit **Hochladen** sichert ihr euren aktuellen Stand von diesem Charakter und mit **Runterladen** überschreibt ihr diesen!
 
-![Bild des Menüpunkt der Charaktereinstellung sichern](images/blog/1712598281-Aktenzeichen_DerUIVerlust_01.jpg)
+![Bild des Menüpunkt der Charaktereinstellung sichern](images/blog/1712608981-Aktenzeichen_DerUIVerlust_01.jpg)
 
-![Bild vom Sicherungsfenster](images/blog/1712598281-Aktenzeichen_DerUIVerlust_02.jpg)
+![Bild vom Sicherungsfenster](images/blog/1712608981-Aktenzeichen_DerUIVerlust_02.jpg)
 
 Auch nett: Man sieht direkt wann zuletzt gesichert wurde.
 

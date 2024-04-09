@@ -11,7 +11,7 @@ draft: false
 
 Diese Woche ging es wieder weiter mit:
 
-<!-- more -->
+<!--more-->
 
 ## Die endlose Quälerei des Mount-Farmings: Rubicante – ob ihr wirklich richtig steht, seht ihr ob er euch eins überbrät…
 

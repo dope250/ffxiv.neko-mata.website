@@ -11,6 +11,8 @@ draft: false
 
 Nachdem wir endlich den Fluch von Barbarizia brechen konnten, heißt es nun:
 
+<!--more-->
+
 ## Die endlose Quälerei des Mount-Farmings: Rubicante – ob ihr wirklich richtig steht, seht ihr ob er euch eins überbrät…
 
 Endlich wagen wir uns in die Höllenfeuer Rubicantes, um das nächste seltene Reittier zu ergattern. Doch auch hier erwarteten uns tückische Fallen und schmerzhafte Tode. 
