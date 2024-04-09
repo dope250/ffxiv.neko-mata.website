@@ -13,7 +13,7 @@ Ein Hauch von Verwirrung - willkommen in der Welt der Neko:Mata-Gesellschaft! He
 
 Unsere Reise begann an einem kalten regnerischen Abend in Alt-Gridania. Umgeben von leuchtenden Oster-Eiern und dem sanften Klang der Hintergrundmusik, saßen ein paar tapferen Mitglieder von Neko:Mata auf der Bank und unterhielten sich.
 
-![Image alt](images/blog/NeulingsIconMitErde.png)
+![Image alt](images/blog/icons/NeulingsIconMitErde.png)
 
 Mit einem festen Griff um unsere Controller und Tastaturen entbrannte sich allmählich eine Diskussion um die tiefsten Geheimnisse des Neulings-Icons (mit Erde) zu ergründen. Man sah diese selten, aber doch manchmal in ganz Eorzea. Einige behaupteten, es sei ein Zeichen der Hoffnung, ein Hinweis darauf, dass selbst die unerfahrensten Spieler ihren Platz in dieser großen Welt finden könnten. Andere spekulierten, dass es eine versteckte Botschaft der Götter sei.
 
@@ -31,4 +31,4 @@ Aber dann endete unsere epische Suche nach der Bedeutung des Neulings-Icons(mit 
 
 "Angezeigt auf Freundeslisten und Menüs von Freie Gesellschaften eines 'Sprouts' (Anfängers) welches das Mentoren-Chat Netzwerk beigetreten ist." :exploding_head:
 
-![Image alt](images/blog/NeulingsIconMitErde.png)
+![Image alt](images/blog/icons/NeulingsIconMitErde.png)
