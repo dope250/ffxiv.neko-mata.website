@@ -19,7 +19,7 @@ Das wird dir hier von Dopine gezeigt, welche Möglichkeiten es gibt und wie einf
 
 ### Methode 1 | Server Backup | Sehr einfach
 
-Es gibt direkt in Final Fantasy 14 eine Funktion zum Sichern der Einstellungen! [Wie cool ist das bitte?!] (https://www.youtube.com/watch?v=ZLqcyxK-lqw) :exploding_head: Das klappt sogar auf PC sowie Konsole!
+Es gibt direkt in Final Fantasy 14 eine Funktion zum Sichern der Einstellungen! [Wie cool ist das bitte?!](https://www.youtube.com/watch?v=ZLqcyxK-lqw) :exploding_head: Das klappt sogar auf PC sowie Konsole!
 
 Sie ist nur etwas versteckt zu finden, aber relativ simple gestaltet:
 
