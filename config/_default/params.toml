@@ -57,7 +57,7 @@ show_categories = true
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
 keywords = ["Final Fantasy XIV", "Freie Gesellschaft", "Gilde", "Clan", "Final Fantasy 14", "Deutsch", "Events", "Aktivitäten", "Discord"]
-description = "Neko:Mata ist eine gemütliche Freie Gesellschaft auf Alpha"
+description = "Dies ist die Website von Neko:Mata. Eine gemütliche Freie Gesellschaft in Final Fantasy 14, beheimatet auf dem Datenzentrum Alpha/Light."
 author = "Fio Inari"
 image = "images/og-image.jpg"
 
