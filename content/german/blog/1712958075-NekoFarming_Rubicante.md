@@ -8,8 +8,6 @@ categories: ["Neko:Farming"]
 author: "Fio Inari"
 draft: false
 ---
-
-## Rubicante ##
 Ein weiteres Mal für diese Woche ging es wieder weiter mit:
 
 # Die endlose Quälerei des Mount-Farmings: Rubicante – ob ihr wirklich richtig steht, seht ihr ob er euch eins überbrät… #
