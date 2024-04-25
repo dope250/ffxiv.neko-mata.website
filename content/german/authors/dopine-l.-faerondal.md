@@ -13,7 +13,7 @@ social:
     link: https://twitter.com/dope250
 
   - name: pixelfed
-    icon: fa-brands fa-instagram
+    icon: fa-regular fa-camera
     link: https://eorzea.photos/i/web/profile/558482555763621947
 
   - name: mastodon
