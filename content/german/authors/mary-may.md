@@ -1,7 +1,7 @@
 ---
 title: Mary May
 email: dope250@electronicping.net
-image: "/images/author.png"
+image: "/images/author-mary.png"
 description: Dies ist die Autorenseite von Mary May
 ---
 
