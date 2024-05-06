@@ -9,7 +9,7 @@ author: "Dopine L. Faerondal"
 draft: false
 ---
 
-Das Rad wurde erneut gedreht und hat gesprochen. Der nächste Alles ist möglich Samstag war ganz im Ziele von Eureka!
+Das Rad wurde erneut gedreht und hat gesprochen. Der nächste **Alles ist möglich Samstag** war ganz im Ziele von **Eureka**!
 
 Diesmal waren auch ein paar Neulinge dabei, die am gleichen Tag (!) unsere Gemeinschaft beigetreten waren und auch Eureka, das vergessene Land, noch nie von innen sahen. Dies lies uns doch gleich noch motivierender in den Inhalt steigen!
 
