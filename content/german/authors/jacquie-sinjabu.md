@@ -5,7 +5,7 @@ image: "/images/author-jacquie.png"
 description: Dies ist die Autorenseite von Jacquie Sinjabu
 ---
 
-Jacquie ist eine natur liebende Person und entdeckt gerne neue Biome. Sie ist eine ruhige und hilfsbreite Persönlichkeit und immer für Freunde da wenn sie Heilung brauchen. Jacquie liebt es auch anderen eine Freunde zu machen und arbeitet auch dafür gerne mit anderen zusammen wenn es um größere Projekte geht.
+Jacquie ist eine natur liebende Person und entdeckt gerne neue Biome. Sie ist eine ruhige und hilfsbreite Persönlichkeit und ist immer für ihre Freunde da wenn sie Heilung brauchen. Jacquie liebt es auch anderen eine Freude zu machen und arbeitet auch dafür gerne mit anderen zusammen wenn es um größere Projekte geht.
 
 Jacquie Sinjabu kommt ursprünglich aus der Welt von **World of Warcraft** wo sie als *Dunkelspeertroll* mit Pfeil und Bogen auf Abenteuer ging. 
 
