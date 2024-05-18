@@ -6,13 +6,22 @@
 
 header .btn-outline-primary {
   transition: box-shadow 0.5s ease-in-out;
-  box-shadow: 0 0 20px #D9DAD5;
+  box-shadow: 0 0 20px #282D44;
+}
+
+.feature-shadow {
+  transition: box-shadow 0.5s ease-in-out;
+  box-shadow: 0 0 20px #282D44;
 }
 
 .dark {
   header .btn-outline-primary {
     transition: box-shadow 0.5s ease-in-out;
-    box-shadow: 0 0 20px #8B8677;
+    box-shadow: 0 0 20px #F3D0D7;
+  }
+  .feature-shadow {
+    transition: box-shadow 0.5s ease-in-out;
+    box-shadow: 0 0 20px #F3D0D7;
   }
 }
 

@@ -57,6 +57,7 @@ features:
 
   - title: ""
     image: "/images/service-finish.png"
+    class: "feature-shadow rounded"
     content: "Bist du neugierig auf uns geworden?</br >Dann sei nicht scheu und melde dich bei uns!</br >~ Fio Inari ~"
     button:
       enable: false
