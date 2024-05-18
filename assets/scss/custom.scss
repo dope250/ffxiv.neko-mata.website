@@ -1,5 +1,9 @@
 // Add your own custom styles here
 
+.bg-gradient {
+  @apply dark:from-darkmode-theme-light dark:to-darkmode-body bg-gradient-to-b from-[#F3D0D7] from-[0.53%] to-[#FFEFEF] to-[83.28%];
+}
+
 //Google Font
 /* hebrew */
 @font-face {
