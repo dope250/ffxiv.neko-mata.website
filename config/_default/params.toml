@@ -44,8 +44,8 @@ link = "https://de.finalfantasyxiv.com/lodestone/freecompany/9279948507173619670
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
 [search]
-enable = false
-primary_color = "#121212"
+enable = true
+primary_color = "#F3D0D7"
 include_sections = ["blog"]
 show_image = true
 show_description = true
@@ -60,6 +60,13 @@ keywords = ["Final Fantasy XIV", "Freie Gesellschaft", "Gilde", "Clan", "Final F
 description = "Dies ist die Website von Neko:Mata. Eine gemütliche Freie Gesellschaft in Final Fantasy 14, beheimatet auf dem Datenzentrum Alpha/Light."
 author = "Fio Inari"
 image = "images/og-image.jpg"
+
+# matomo: see https://matomo.org/
+# seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/matomo-analytics
+[matomo]
+enable = false
+url = "https://matomo.electronicping.net/"
+id = "3"
 
 
 # site verifications

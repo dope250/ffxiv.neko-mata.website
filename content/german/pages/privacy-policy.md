@@ -1,5 +1,5 @@
 ---
-title: "Notice"
+title: "Privacy Policy"
 # meta title
 meta_title: ""
 # meta description
@@ -25,6 +25,10 @@ Es sind keine Cookies im Einsatz daher Bedarf es keiner Zustimmung. Nicht einmal
 #### Links?
 
 Keine Haftung für externe Verlinkungen die von der Hauptdomain abweichen.
+
+#### Tracking?
+
+Nüchts.
 
 #### Bilder & Screenshots?
 
