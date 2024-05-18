@@ -7,9 +7,9 @@ draft: false
 
 #### Lavendelbeete; Bezirk 11; Grundstück 3
 
-**Herzlich Willkommen im Katzenpalast! Gib Pfötchen und stelle dir vor, du wärst ein Teil vom Neko Paradise. Schau dich gerne um ♥**
+**Herzlich Willkommen im Katzenpalast! Gib Pfötchen und stelle dir vor, du wärst ein Teil vom Neko Paradise. Schau dich gerne um :heart:**
 
-Willkommen in Lavendelbeete, unserem gemeinsamen Rückzugsort und dem perfekten Treffpunkt für unsere FC "Neko:Mata". Hier im **Katzenkörbchen** erleben wir die perfekte Symbiose aus Gemeinschaft und Erholung.
+Die Lavendelbeete, unserem gemeinsamen Rückzugsort und dem perfekten Treffpunkt für unsere FC "Neko:Mata". Hier im **Katzenkörbchen** erleben wir die perfekte Symbiose aus Gemeinschaft und Erholung.
 
 Unser Grundstück bietet nicht nur eine bezaubernde Aussicht, sondern auch unzählige Möglichkeiten. Von gemeinsamen Trainings und Strategiebesprechungen bis hin zu entspannten Zusammenkünften – hier können wir uns entfalten.
 

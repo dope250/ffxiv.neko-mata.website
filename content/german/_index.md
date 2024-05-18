@@ -5,9 +5,9 @@ banner:
   content: "Wir sind eine gemütliche **Freie Gesellschaft** auf **Alpha**"
   image: "/images/banner.png"
   button:
-    enable: false
-    label: "Zur Lodestone Seite"
-    link: "https://de.finalfantasyxiv.com/lodestone/freecompany/9279948507173619670/"
+    enable: true
+    label: "Zur Gallerie"
+    link: "https://img.electronicping.net/album/Final-Fantasy-XIV-Neko%3AMata.28i"
 
 # Features
 features:
