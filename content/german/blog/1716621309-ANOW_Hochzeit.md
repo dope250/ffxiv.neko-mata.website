@@ -15,7 +15,7 @@ Der 19.5 war für zwei Nekos ein ganz besondere Tag!
 
 Den Start markierte bereits einen Tag zuvor das allseits beliebe Glamalam das diesmal ganz im Zeichen von Brautjungfern und Trauzeugen stand. Am Sonntag ging es dann so richtig los, die *„NPC“* Trauung begann pünktlich um 19 Uhr, nachdem der Mogry-Priester dem Brautpaar die Ringe ausgehändigt hatte ... und die beiden ihre Liebe zueinander mit einem Kuss besiegelten Schoss unsere liebe Foto:Neko neben [vieler Schnappschüsse](https://img.electronicping.net/album/Hochzeit-Miku-Feroxis-und-Mary-May.8rxw) noch einige Gruppenfotos. Alsbald wurde dann schon zum Auszug geläutet. Glücklich lächelnd verließen Miku und ihre Mary die Kapelle umsäumt von all den lieben Nekos die ihrer Hochzeit beiwohnten. 
 
-Draußen wurde das frischvermählte Paar und ihre Gäste von der Barden Band **The Ugly Dolls** mit wunderschöner Musikuntermalung empfangen welche den Weg zur Kapelle säumten. Hier möchten wir unserem leider verhinderten Trauzeugen danken welcher sie uns geschenkt hat und ebenfalls dem danken welcher sehr kurzfristig eingesprungen ist.
+Draußen wurde das frischvermählte Paar und ihre Gäste von der Barden Band [**The Ugly Dolls**](https://www.twitch.tv/the_ugly_dolls) mit wunderschöner Musikuntermalung empfangen welche den Weg zur Kapelle säumten. Hier möchten wir unserem leider verhinderten Trauzeugen danken welcher sie uns geschenkt hat und ebenfalls dem danken welcher sehr kurzfristig eingesprungen ist.
 
 Gegen 20:00 Uhr fand dann am Strand eine RP angehauchte Hochzeit statt wo sich Miku und Mary einen sehr persönlichen Schwur gaben. Einer von vielen wunderschönen Höhepunkten war ein persönliches und live eingesungenes Lied von einem Neko. 
 
