@@ -5,7 +5,7 @@ description: "Der 19.5 war für zwei Nekos ein ganz besondere Tag!"
 date: 2024-05-26T10:34:06+02:00
 image: "/images/blog/ANOW.png"
 categories: ["Alles Neko, oder was?!"]
-author: "Miku Feroxis"
+author: "Miku May"
 draft: false
 ---
 
