@@ -16,7 +16,7 @@ Wir sind bisher relativ gut bis zur Ebene 70 gekommen. Ab da wird es jedoch spü
 
 Aber!
 
-Gestern haben wir die Nemenis-Ebenen hinter uns gebracht und wir standen endlich vor dem Boss, der uns den Weg in die nächste Ebenen 80+ versperrte: 
+Gestern haben wir die Nemesis-Ebenen hinter uns gebracht und wir standen endlich vor dem Boss, der uns den Weg in die nächste Ebenen 80+ versperrte: 
 
 #### Proto-Kaliya!
 
