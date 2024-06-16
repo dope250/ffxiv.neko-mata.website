@@ -27,4 +27,4 @@ Dann gab es aber auch noch die vergilbten Kumbhilaleder-Karten, die nicht so bel
 Es galt einige Portale zu durchschreiten, mal mit mehr (das"rechte"Glück), dann aber auch mit weniger Glück, konnten sie einiges erbeuten.
 Fortuna war ihnen  hold, sie sind auch 2 mal beim Roulette und 2 mal durch die Verließe bis zum Ende gekommen, so waren alle glücklich und zufrieden, mit ihrer Ausbeute.
 
-Nach etwas mehr als 2 Stunden beendeten die mutigen Nekos das Abenteuer und stärken sich für ein neues Treffen und mit der Hoffnung
+Nach etwas mehr als 2 Stunden beendeten die mutigen Nekos das Abenteuer und stärken sich für ein neues Treffen und mit der Hoffnung, den Schatz der Schätze zu bergen.
