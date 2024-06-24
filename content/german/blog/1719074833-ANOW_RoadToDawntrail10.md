@@ -1,5 +1,5 @@
 ---
-title: "Road to Dawntrail…"
+title: "Road to Dawntrail... 10"
 meta_title: ""
 description: "Bald ist es soweit und der neue DLC erscheint endlich!"
 date: 2024-06-22T18:47:21+02:00
