@@ -33,3 +33,8 @@ Fixes:
 
 Shortcuts:
 * [Emoji Cheat Sheet](https://gohugo.io/quick-reference/emojis/)
+
+ToDos:
+* RSS Feed
+* Background Video on first split container
+
