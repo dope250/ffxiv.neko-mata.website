@@ -1,5 +1,5 @@
 ---
-title: "Road to Dawntrail… 9"
+title: "Road to Dawntrail... 9"
 meta_title: ""
 description: "Die Zahl 9 erinnert mich an mein erstes Raid Tier hier in Final"
 date: 2024-06-23T17:14:48+02:00
