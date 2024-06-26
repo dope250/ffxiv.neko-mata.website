@@ -3,7 +3,7 @@ title: "Road to Dawntrail 6"
 meta_title: ""
 description: "Zeit, um etwas in den Erinnerungen an **Stormblood** zu schwelgen."
 date: 2024-06-26T18:16:51+02:00
-image: "/images/blog/image-placeholder.png"
+image: "/images/blog/ANOW_RoadToDawntrail.png"
 categories: ["Alles Neko, oder was?!"]
 author: "Fio Inari"
 draft: false

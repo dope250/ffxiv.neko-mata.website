@@ -3,7 +3,7 @@ title: "Road to Dawntrail 7"
 meta_title: ""
 description: "Heute war es ein wirklich stressiger Tag als Commander der Nekos."
 date: 2024-06-25T18:15:16+02:00
-image: "/images/blog/image-placeholder.png"
+image: "/images/blog/ANOW_RoadToDawntrail.png"
 categories: ["Alles Neko, oder was?!"]
 author: "Fio Inari"
 draft: false
