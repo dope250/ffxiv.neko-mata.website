@@ -37,9 +37,9 @@ Für mich persönlich war das so unglaublich faszinierend, da wir diese *Krieger
 Auch wie wir Schritt für Schritt unsere Freunde wieder gefunden haben war einfach nur unglaublich schön!
 
 Mit jedem einzelnen haben wir die verschiedenen Gebiete vom ewigen Licht befreit und neue Charaktere kennen und mögen gelernt.
-Am meisten schockierte mich damals die Stadt **Eulmore**, in der die Völlerei vorherrschte und alles nur schein statt sein war. 
+Am meisten schockierte mich damals die Stadt **Eulmore**, in der die Völlerei vorherrschte und alles nur Schein statt Sein war. 
 
-Später scheint es zunächst so, als würden wir Minfilia wieder treffen. Jedoch stellte sich schnell heraus, dass dieses junge Mädchen - Ryne - eine Reinkarnation unserer Freundin ist. Minfinia kam tatsächlich vor vielen Jahren als Orakel in die 1. Splitterweilt, starb jedoch lange vor unserem Eintreffen.
+Später scheint es zunächst so, als würden wir Minfilia wieder treffen. Jedoch stellte sich schnell heraus, dass dieses junge Mädchen - Ryne - eine Reinkarnation unserer Freundin ist. Minfilia kam tatsächlich vor vielen Jahren als Orakel in die 1. Splitterwelt, starb jedoch lange vor unserem Eintreffen.
 
 Mit Ryne und ihrer Art bin ich nie wirklich warm geworden. 
 
