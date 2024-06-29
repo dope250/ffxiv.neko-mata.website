@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /*.json
 
-Sitemap https://neko-mata.de/sitemap.xml
+Sitemap: https://neko-mata.de/sitemap.xml
