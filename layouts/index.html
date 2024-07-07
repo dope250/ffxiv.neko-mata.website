@@ -2,6 +2,13 @@
   <!-- Banner -->
   {{ with .Params.banner }}
     <section class="section pt-14">
+      <video class="bg-video-base" autoplay="" loop="" muted="">
+        <source src="{{ .videoDark }}" type="video/webm">
+    </video>
+      <video class="bg-video-base dark bg-video-show" autoplay="" loop="" muted="">
+        <source src="{{ .video }}" type="video/webm">
+    </video>
+
       <div class="container">
         <div class="row justify-center">
           <div class="lg:col-7 md:col-9 mb-8 text-center">
@@ -47,9 +54,9 @@
           </div>
           <div
             class="{{ if not (modBool $i 2) }}
-              md:order-1
+              md:order-1 rounded-xl bg-theme-light dark:bg-darkmode-theme-light
             {{ end }} md:col-7 lg:col-6">
-            <h2 class="mb-4">
+            <h2 class="mb-4 mt-4">
               {{ .title | markdownify }}
             </h2>
             <p class="mb-8 text-lg">

@@ -4,6 +4,8 @@ banner:
   title: ":heart:-lich Willkommen bei Neko:Mata :3"
   content: "Wir sind eine gemütliche **Freie Gesellschaft** auf **Alpha**"
   image: "/images/banner.png"
+  video: "/vids/loop.webm"
+  videoDark: "/vids/loop-dark.webm"
   button:
     enable: true
     label: "Zur Gallerie"

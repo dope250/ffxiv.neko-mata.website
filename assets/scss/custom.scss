@@ -1,4 +1,27 @@
 // Add your own custom styles here
+h2 {
+  text-align: center;
+}
+
+// Background video
+.bg-video-base {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -1;
+  -webkit-filter: blur(2px);
+  filter: blur(2px)
+}
+
+.bg-video-show {
+  @apply block;
+}
+
 
 //@media (max-width: 540px) {
 //  .container {
@@ -20,6 +43,11 @@
     box-shadow: 0 0 20px #282D44;
   }
 
+  .feature-shadow-s {
+    transition: box-shadow 0.5s ease-in-out;
+    box-shadow: 0 0 5px #282D44;
+  }
+
   .dark {
     header .btn-outline-primary {
       transition: box-shadow 0.5s ease-in-out;
@@ -30,7 +58,18 @@
       transition: box-shadow 0.5s ease-in-out;
       box-shadow: 0 0 20px #F3D0D7;
     }
+
+    .feature-shadow-s {
+      transition: box-shadow 0.5s ease-in-out;
+      box-shadow: 0 0 5px #F3D0D7;
+    }
+
+    .bg-video-show {
+      @apply hidden;
+    }
+
   }
+
 
 
   //Google Fonts
