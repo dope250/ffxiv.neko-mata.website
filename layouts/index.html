@@ -1,11 +1,11 @@
 {{ define "main" }}
   <!-- Banner -->
   {{ with .Params.banner }}
-    <section class="section pt-14">
-      <video class="bg-video-base" autoplay="" loop="" muted="">
+    <section class="sectionExt">
+      <video class="bg-video-base" autoplay loop muted>
         <source src="{{ .videoDark }}" type="video/webm">
     </video>
-      <video class="bg-video-base dark bg-video-show" autoplay="" loop="" muted="">
+      <video class="bg-video-base dark bg-video-show" autoplay loop muted>
         <source src="{{ .video }}" type="video/webm">
     </video>
 
@@ -32,7 +32,7 @@
               {{ end }}
             {{ end }}
           </div>
-          <div class="col-12">
+          <div class="col-12 mt-20">
             {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto" "DisplayXL" "1500x" ) }}
           </div>
         </div>

@@ -3,6 +3,14 @@ h2 {
   text-align: center;
 }
 
+// section style override
+.sectionExt {
+  @apply pt-24 xl:pt-28;
+  &-sm {
+    @apply pt-16 xl:pt-20;
+  }
+}
+
 // Background video
 .bg-video-base {
   width: 100vw;
