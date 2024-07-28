@@ -58,7 +58,7 @@ features:
       link: ""
 
   - title: ""
-    image: "/images/service-finish.png"
+    image: "/images/service-finish.jpg"
     class: "feature-shadow rounded"
     content: "Bist du neugierig auf uns geworden?</br >Dann sei nicht scheu und melde dich bei uns!</br >~ Fio Inari ~"
     button:
