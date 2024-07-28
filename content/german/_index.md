@@ -20,9 +20,9 @@ features:
       - "Eine freundliche & hilfsbereite Community"
       - "die Möglichkeit dich aktiv an der Community zu beteiligen"
       - "einen gut strukturierten Discord für herrlich chaotische Nekos und deren Freunde"
-      - "ein Plätzchen in unserem Haus [**Neko:Katzenkörbchen**](/plot_katzenkoerbchen) Lavendelbeete 11. Bezirk,3"
-      - "ein Haus für unsere Kleiderkritik: [**Neko:Taverne**](/plot_taverne) Shirogane 1. Bezirk, 58 inkl. FC für unsere Alt Chars"
-      - "ein Haus für unsere Events: [**Neko:Events**](/plot_events) Shirogane 1. Bezirk, 59 inkl. FC für unsere Alt Chars"
+      - "ein Plätzchen in unserem Haus [**Neko:Katzenkörbchen**](/plot_katzenkoerbchen) Shirogane 25., Bezirk 60"
+      - "ein Haus für unsere Kleiderkritik: [**Neko:Taverne**](/plot_taverne) Shirogane 25. Bezirk, 58 inkl. FC für unsere Alt Chars"
+      - "ein Haus für unsere Events: [**Neko:Events**](/plot_events) Shirogane 25. Bezirk, 59 inkl. FC für unsere Alt Chars"
     button:
       enable: false
       label: "Get Started Now"
@@ -39,6 +39,7 @@ features:
       - "Mini-Games"
       - "FC eigene Kleiderkritik (Glamalam)"
       - "FATE Farming"
+      - "Mount Farming"
       - "'Alles ist möglich' Samstag"
     button:
       enable: false
