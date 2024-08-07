@@ -3,14 +3,14 @@ title: "Fate(ality)"
 meta_title: ""
 description: "Es war wieder soweit, 17 Nekos und als Primiere 3 Mitglieder von unser Partner FC auf Raiden gingen Faten und es war einiges los."
 date: 2024-08-06T21:43:49+02:00
-image: "/images/blog/image-placeholder.png"
+image: "/images/blog/NekoFarming_FatesKozamauka.png"
 categories: ["Neko:Farming"]
 author: "Muddel Vonkopp"
 draft: false
 ---
 
 
-Es war wieder soweit, 17 Nekos und als Primiere 3 Mitglieder von unser Partner FC auf Raiden gingen Faten und es war einiges los.
+Es war wieder soweit, 17 Nekos und als Prämiere 3 Mitglieder von unser Partner FC auf Raiden gingen Faten und es war einiges los.
 
 Es gab ein paar Nekos die sagen wir mal; etwas Verplant waren/sind ^^
 Und es gab Nekos, die den ganzen Chaotischen Haufen Koordiniert haben.
