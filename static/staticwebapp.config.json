@@ -1,4 +1,14 @@
 {
+  "routes": [
+    {
+      "route": "/blog/aktenzeichen_staatlichengesellschaften_1-1711275022",
+      "rewrite": "/blog/1711275022-aktenzeichen_staatlichengesellschaften_1"
+    },
+    {
+      "route": "/blog/nekomeet13",
+      "rewrite": "/blog/1708920000-nekomeet13"
+    }
+  ],
   "responseOverrides": {
     "404": {
       "rewrite": "/404.html"
