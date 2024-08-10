@@ -36,5 +36,7 @@ Shortcuts:
 
 ToDos:
 * RSS Feed
-* Background Video on first split container
-
+* Discord widget
+* Google Calender
+* Magazine (Tomberry Gazette?)
+* Eventposter
