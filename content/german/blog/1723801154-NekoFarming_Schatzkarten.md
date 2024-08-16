@@ -29,7 +29,7 @@ Die nächsten Zeilen handeln nur noch von einem selbst­be­mit­lei­denden Leb
 
 Ihr überspringt die nächsten Zeilen da es sich um sehr detaillierte Beschreibungen von einem Cenoten tief unten handelt: Plattformen die schweben, Bäume die ohne Licht zu wachsen scheinen (und ebenfalls schwebten), Boden der aus Stein sowie Silber und später sogar aus reinem Gold besteht und sandiges Gold vom Himmel fallen lässt. Für euch klingen die Zeilen absurd und eher danach als hätte der Autor einen schlechten Trip, den er vom Höhlen-Moos schnuppern bekam gehabt. 
 
-Euer Auge jedoch blieb jedoch bei einem Bereich stehen der dort als "Statistiken" unterstrichen ist:
+Euer Auge blieb jedoch bei einem Bereich stehen der dort als "Statistiken" unterstrichen ist:
 
 #### Gruppe 1
 - 451.325 Gil
