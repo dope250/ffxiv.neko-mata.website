@@ -25,7 +25,7 @@ Ihr blättert einige Seiten durch, seht krude Notizen und Kritzeleien die, ohne 
 
 Die nächsten Zeilen handeln nur noch von einem selbst­be­mit­lei­denden Lebensstandards in Limsa Lominsa die ihr mit einem genervten seufzen und Augenrollen überspringt. Auf der nächsten Seite lest ihr weiter:
 
-> Als es die Runde in der Freien Gesellschaft machte was wir da entdeckten, haben sich sogar noch mehr angeschlossen und wir mussten zwei Gruppen machen. Gruppe 1, welche in ebenfalls angehörte, hatte 10 Karten und 9 Portale! Das ist ein super Schnitt!
+> Als es die Runde in der Freien Gesellschaft machte was wir da entdeckten, haben sich sogar noch mehr angeschlossen und wir mussten zwei Gruppen machen. Gruppe 1, welche ich ebenfalls angehörte, hatte 10 Karten und 9 Portale! Das ist ein super Schnitt!
 
 Ihr überspringt die nächsten Zeilen da es sich um sehr detaillierte Beschreibungen von einem Cenoten tief unten handelt: Plattformen die schweben, Bäume die ohne Licht zu wachsen scheinen (und ebenfalls schwebten), Boden der aus Stein sowie Silber und später sogar aus reinem Gold besteht und sandiges Gold vom Himmel fallen lässt. Für euch klingen die Zeilen absurd und eher danach als hätte der Autor einen schlechten Trip, den er vom Höhlen-Moos schnuppern bekam gehabt. 
 
