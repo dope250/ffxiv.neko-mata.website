@@ -37,6 +37,6 @@ Shortcuts:
 ToDos:
 * RSS Feed
 * Discord widget
-* Google Calender
+* Google Calender / RaidHalper Event Calender
 * Magazine (Tomberry Gazette?)
 * Eventposter
