@@ -2,27 +2,48 @@
 
 [Link](https://neko-mata.de)
 
-Deploy via swa. Don't forget to add the following to the .env:
-> AZURE_SUBSCRIPTION_ID=
-> AZURE_TENANT_ID=
-> SWA_CLI_LOGIN_CLEAR_CREDENTIALS=true
+## How To
 
-Depoy via swa:
-> hugo -D
-> swa deploy --env production
+* Install Hugo extended (>123.3)
+* Install NPM
+* Clone Repo
+* npm install (>24)
+
+Deploy via swa (build.sh). Don't forget to add the following to the .env:
+```
+AZURE_SUBSCRIPTION_ID=
+AZURE_TENANT_ID=
+SWA_CLI_LOGIN_CLEAR_CREDENTIALS=true
+RAIDHELPER_API=
+RAIDHELPER_SERVER_ID
+```
+
+Depoy via swa manually:
+```
+hugo -D
+swa deploy --env production
+```
 
 For testing locally:
-> hugo server
+```
+hugo server
+```
 
 To create a new blogpost:
-> hugo new content /blog/%Name%.md
+```
+hugo new content /blog/%Name%.md
+```
+
+or use the script:
+```
+./create_Blog.sh
+```
 
 Possible Color pallets:
 
 * [nier automata jean paul Color Palette](https://www.color-hex.com/color-palette/1023731)
 * [Black Grey Red White Dark Space](https://colorhunt.co/palette/0000003e3636d72323f5eded)
 * Flieder
-* Magenta
 * [Katzenpfötchen - Light Only](https://colorhunt.co/palette/f6f5f2f0ebe3f3d0d7ffefef)
 * [Blue - Light Only](https://colorhunt.co/palette/92c7cfaad7d9fbf9f1e5e1da)
 * [Warme Farbtöne](https://coolors.co/palette/628395-96897b-dfd5a5-dbad6a-cf995f)
@@ -35,8 +56,7 @@ Shortcuts:
 * [Emoji Cheat Sheet](https://gohugo.io/quick-reference/emojis/)
 
 ToDos:
-* RSS Feed
-* Discord widget
-* Google Calender / RaidHalper Event Calender
-* Magazine (Tomberry Gazette?)
-* Eventposter
+* RSS Feed?
+* Discord widget?
+* Magazines (Tomberry Gazette?)?
+* Eventposter?

@@ -16,30 +16,49 @@ name = "Gallerie"
 url = "gallery/"
 weight = 3
 
+
+# FC content
 [[main]]
-name = "Blog"
-url = "blog/"
+name = "Die FC"
+hasChildren = true
 weight = 4
 
+[[main]]
+weight = 1
+parent = "Die FC"
+name = "📜 Blog"
+url = "blog/"
+
+[[main]]
+weight = 2
+parent = "Die FC"
+name = "📅 Events"
+url = "events/"
+
+
+# Plots
 [[main]]
 weight = 5
 name = "Plots"
 hasChildren = true
 
 [[main]]
+weight = 1
 parent = "Plots"
-name = "Neko:Katzenkörbchen"
+name = "🐱 Katzenkörbchen"
 url = "plot_katzenkoerbchen/"
 
 [[main]]
+weight = 2
 parent = "Plots"
-name = "Neko:Taverne"
-url = "plot_taverne/"
+name = "🎭 Events"
+url = "plot_events/"
 
 [[main]]
+weight = 3
 parent = "Plots"
-name = "Neko:Events"
-url = "plot_events/"
+name = "🍻 Taverne"
+url = "plot_taverne/"
 
 # footer menu
 [[footer]]

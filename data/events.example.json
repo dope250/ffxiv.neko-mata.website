@@ -1,0 +1,55 @@
+{
+    "pages": 1,
+    "eventsOverall": 3,
+    "eventsTransmitted": 3,
+    "currentPage": 1,
+    "postedEvents": [
+        {
+            "color": "113,54,138",
+            "description": "Sendet uns vom 05.08.24 - 09.08.24 eurer schönstes Sommerbild von euch alleine!\nAlle Einsendungen einfach hier in den Channel Events Posten.",
+            "title": "Sommerzeit in Eorzea ❤️",
+            "templateId": "25",
+            "signUpCount": "0",
+            "leaderId": "278601579584552960",
+            "lastUpdated": 1725626620,
+            "leaderName": "dope250",
+            "imageUrl": "https://cdn.discordapp.com/attachments/1125482524286660649/1281595548444524566/1723191459-ANOW_EinTurmUmSieZuKnechten.jpeg?ex=66dc4a5d&is=66daf8dd&hm=eaf22fd94537b5ddcbb5165db88e7e796db02e7ec9d04722890194c31f853f9a&",
+            "closeTime": 1727719200,
+            "startTime": 1727719200,
+            "endTime": 1727724600,
+            "id": "1281595675406106655",
+            "channelId": "838747246446247976"
+        },
+        {
+            "color": "113,54,138",
+            "description": "* Jeder bringt mind. 3 Karten mit\n* Der Loot ist free for all.\n* Wer etwas wertvolles bekommen hat, passt auf das nächste Item von Wert.",
+            "title": "Farming: Schatzkarten",
+            "templateId": "25",
+            "signUpCount": "0",
+            "leaderId": "278601579584552960",
+            "lastUpdated": 1725616404,
+            "leaderName": "dope250",
+            "imageUrl": "https://cdn.discordapp.com/attachments/1125482524286660649/1281552709920624710/10626cd8e4c6d1482e03519ed24c8283.png?ex=66dc2278&is=66dad0f8&hm=a390c1f343890dcb8a18b236e9c2675262ca30a9b4b9b752f565967053b421a2&",
+            "closeTime": 1726855200,
+            "startTime": 1726855200,
+            "endTime": 1726858800,
+            "id": "1281552827528773703",
+            "channelId": "838747246446247976"
+        },
+        {
+            "color": "113,54,138",
+            "description": "We are gonna farm some shit! Lets GOOOOO",
+            "title": "Farming",
+            "templateId": "25",
+            "signUpCount": "0",
+            "leaderId": "278601579584552960",
+            "lastUpdated": 1725614205,
+            "leaderName": "dope250",
+            "closeTime": 1725984000,
+            "startTime": 1725984000,
+            "endTime": 1725984000,
+            "id": "1281543603381993569",
+            "channelId": "838747246446247976"
+        }
+    ]
+}
