@@ -60,3 +60,4 @@ ToDos:
 * Discord widget?
 * Magazines (Tomberry Gazette?)?
 * Eventposter?
+* Widget: Authors
