@@ -3,6 +3,11 @@ h2 {
   text-align: center;
 }
 
+blockquote > p {
+ @apply font-primary;
+ @apply my-0 #{!important};
+}
+
 // section style override
 .sectionExt {
   @apply pt-24 xl:pt-28;

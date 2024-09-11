@@ -41,6 +41,7 @@ features:
       - "FATE Farming"
       - "Mount Farming"
       - "'Alles ist möglich' Samstag"
+      - "Real talk"
     button:
       enable: false
       label: "Get Started Now"
