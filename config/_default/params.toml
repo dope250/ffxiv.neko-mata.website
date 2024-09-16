@@ -56,7 +56,7 @@ show_categories = true
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Final Fantasy XIV", "Freie Gesellschaft", "Gilde", "Clan", "Final Fantasy 14", "Deutsch", "Events", "Aktivitäten", "Discord", "Community", "Blog", "Gemeinschaft"]
+keywords = ["Final Fantasy XIV", "Freie Gesellschaft", "Gilde", "Clan", "Final Fantasy 14", "Deutsch", "Events", "Aktivitäten", "Discord", "Community", "Blog", "Gemeinschaft", "Datenzentrum" , "Alpha", "Light", "Aktiv", "Sprache", "Deutsch", "Homepage", "Communityinhalte"]
 description = "Dies ist die Website von Neko:Mata. Eine gemütliche Freie Gesellschaft in Final Fantasy 14, beheimatet auf dem Datenzentrum Alpha/Light."
 author = "Fio Inari"
 image = "images/og-image.jpg"

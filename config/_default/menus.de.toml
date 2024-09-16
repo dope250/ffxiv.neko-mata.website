@@ -72,6 +72,6 @@ url = "blog/"
 weight = 2
 
 [[footer]]
-name = "Impressum"
+name = "Privacy Policy"
 url = "privacy-policy/"
 weight = 3
