@@ -1,18 +1,18 @@
 {{ range site.Data.events.postedEvents }}
-{{ if not (in .templateId 5) }}
-<div class="max-w-xs bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 mb-3 mr-3 p-0 not-prose">
-        {{ if .imageUrl }}
-        {{ partial "image" (dict "Src" .imageUrl "Alt" .Title "Class" "rounded-t-lg m-0 not-prose") }}
-        {{ end }}
-    <div class="p-5">
-            <h4 class="mb-2 text-2xl font-bold tracking-tight">{{ .title }}</h4>
-            {{ $parts := split .description "\n" }}
-            {{ $summary := index $parts 0 }}
-        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">{{ $summary }} [...]</p>
-        <h5>{{ .startTime | int | dateFormat "Monday, Jan 2, 2006 15:04" }}</h5>
+    {{ if not (in .templateId 5) }}
+    <div class="max-w-xs bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 mb-3 mr-3 p-0 not-prose">
+            {{ if and (.imageUrl) (or (in .imageUrl "raid-helper.dev") (in .imageUrl "discordapp.net"))  }}
+                {{ partial "image" (dict "Src" .imageUrl "Alt" .Title "Class" "rounded-t-lg m-0 not-prose") }}
+            {{ end }}
+        <div class="p-5">
+                <h4 class="mb-2 text-2xl font-bold tracking-tight">{{ .title }}</h4>
+                {{ $parts := split .description "\n" }}
+                {{ $summary := index $parts 0 }}
+            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">{{ $summary }} [...]</p>
+            <h5>{{ .startTime | int | dateFormat "Monday, Jan 2, 2006 15:04" }}</h5>
+        </div>
     </div>
-</div>
-{{ end }}
+    {{ end }}
 {{ end }}
 
 <!-- end card -->
