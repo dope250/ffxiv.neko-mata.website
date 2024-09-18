@@ -29,13 +29,17 @@ Eingebettete Videos greifen auf externe Server zurück und müssen mit einem exp
 
 Nüchts.
 
-Das Hosting läuft über Azure in einem europäischen Rechenzentrum. Beim Aufruf der Website wird, technisch notwendig, die IP Adresse übermittelt.
+Das Hosting läuft über Azure in einem europäischen Rechenzentrum. Beim Aufruf der Website werden nur technisch notwendige Informationen übermittelt.
 
 #### Bilder, Screenshots, Music & Videos?
 
 Alle Screenshots; Logos; Videos; Music und/oder Namensnennung(en) aus dem Spiel [FINAL FANTASY XIV](https://de.finalfantasyxiv.com) oder der NieR:Automata Spielreihe.
 * [© SQUARE ENIX CO., LTD. All Rights Reserved](https://support.na.square-enix.com/rule.php?id=5382&tag=authc)
 
+FINAL FANTASY, FINAL FANTASY XIV, FFXIV, SQUARE ENIX, and the SQUARE ENIX logo are registered trademarks or trademarks of Square Enix Holdings Co., Ltd.  
+Neko:Mata is not endorsed by SQUARE ENIX.
+
 Einige Kollagen enthalten zusätzlich freies Bildmaterial von [Pixabay](https://pixabay.com/).
 
 Made with [Hugo](https://gohugo.io). [Hugoplate](https://github.com/zeon-studio/hugoplate) designed & developed by [Zeon Studio](https://zeon.studio) with minor changes from [eP](https://electronicping.net).
+
