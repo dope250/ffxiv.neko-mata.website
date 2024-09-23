@@ -12,3 +12,5 @@ draft: false
 Acht Nekos haben sich versammelt und haben sich auf Schatzsuche begeben.
 
 Obwohl wir 23 Karten dabei hatten, konnten wir leider nur 10 Portale öffnen, die uns ins cenote jaja gural geführt haben. Dadurch haben wir 706.090 Gil bekommen. Außerdem sind wir drei mal in die letzte Kammer gekommen, wodurch wir drei goldene Bosse gesehen haben. Am Ende sind noch ein paar schöne Bilder entstanden und es war ein sehr lustiger Abend.
+
+![Nekos die fröhlich vor der Beute, einer Schatztruhe, stehen.](images/blog/screenshots/1727027684-NekoFarming_Schatzkarten.jpeg)
