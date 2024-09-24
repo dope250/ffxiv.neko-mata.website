@@ -1,5 +1,5 @@
 {{ range site.Data.events.postedEvents }}
-    {{ if not (in .templateId 5) }}
+    {{ if not (eq (int .templateId) 5) }}
     <div class="max-w-xs bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 mb-3 mr-3 p-0 not-prose">
             {{ if and (.imageUrl) (or (in .imageUrl "raid-helper.dev") (in .imageUrl "discordapp.net"))  }}
                 {{ partial "image" (dict "Src" .imageUrl "Alt" .Title "Class" "rounded-t-lg m-0 not-prose") }}
