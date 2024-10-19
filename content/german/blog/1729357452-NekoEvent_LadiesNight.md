@@ -3,7 +3,7 @@ title: "Ladies Night"
 meta_title: ""
 description: "Am **18.10.24 **verabredete ich mich mit 5 weiteren Frauen der Nekos zu unserer"
 date: 2024-10-19T19:04:20+02:00
-image: "/images/blog/NekoEvent_LadiesNight"
+image: "/images/blog/NekoEvent_LadiesNight.png"
 categories: ["Neko:Event"]
 author: "Fio Inari"
 draft: false
