@@ -6,7 +6,7 @@ description: "Dann besuchte doch gerne unsere Partner FC **Ashes of Dreams** auf
 button:
   enable: true
   label: "Ashes of Dreams"
-  link: "https://na.finalfantasyxiv.com/lodestone/community_finder/5652b1196ae85cc1b524c831612b5cb1b7bd71f5/"
+  link: "https://de.finalfantasyxiv.com/lodestone/freecompany/9280089244661973681/"
 
 # don't create a separate page
 _build:
