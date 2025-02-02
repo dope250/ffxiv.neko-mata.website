@@ -1,5 +1,5 @@
 ---
-title: "8 Nekos auf dem Weg zum Reichtum"
+title: "Acht Nekos auf dem Weg zum Reichtum"
 meta_title: ""
 description: "Zunächst haben sich 7 Nekos versammelt um Schätze zu sammeln und exquisiter Handelsgüter zu erbeuten."
 date: 2025-02-02T19:20:27+01:00
