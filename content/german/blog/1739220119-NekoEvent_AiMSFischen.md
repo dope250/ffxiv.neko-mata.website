@@ -1,7 +1,7 @@
 ---
 title: "Acht Nekos auf großer Fahrt"
 meta_title: ""
-description: "An einem schönen Samstag, dem "Alles ist möglich Samstag", verabredeten sich acht Nekos um auf große Fahrt zu gehen."
+description: "An einem schönen Samstag, dem Alles ist möglich Samstag, verabredeten sich acht Nekos um auf große Fahrt zu gehen."
 date: 2025-02-04T19:20:27+01:00
 image: "/images/blog/NekoAimS.png"
 categories: ["Neko:Event"]
