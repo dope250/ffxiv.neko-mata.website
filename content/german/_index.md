@@ -46,7 +46,7 @@ features:
       - "Pizza Abend"
       - "Movie Night"
       - "Game Night"
-      - "mini Games"
+      - "Mini Games"
     button:
       enable: false
       label: "Get Started Now"
