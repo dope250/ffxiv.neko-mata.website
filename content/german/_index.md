@@ -35,7 +35,6 @@ features:
       - "Regelmäßige **Neko:Meets**"
       - "Events"
       - "Glamalam!"
-      - "Neko:Meet"
       - "Neko:Farming"
       - "Traumprüfung"
       - "Deep Dungeon"
