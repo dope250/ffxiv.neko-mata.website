@@ -17,13 +17,13 @@ Wenn ihr uns mal besuchen möchtet, um einfach ein bisschen zu plaudern oder die
 
 Unser beliebter Treffpunkt für alle Nekos und die, die es gerne werden möchten. Hier wird geschlemmt, geplaudert, ein bisschen gerangelt und natürlich gespielt (mit Krallen!).
 
-> 25ster Bezirk in Shirogane  - Grundstück 60
+* 25ster Bezirk in Shirogane  - Grundstück 60
 
 ##### Die "Neko:Events"
 
 Die Neko:Events wird für die unterschiedlichsten Veranstaltungen genutzt und ständig umgestaltet.
 
-> 25ster Bezirk in Shirogane  - Grundstück 59
+* 25ster Bezirk in Shirogane  - Grundstück 59
 
 ##### Das "Neko:Casino"
 
@@ -31,19 +31,19 @@ Drücken euch die Kredithaie mit ihren Forderungen, die schon vor Jahrzehnten ab
 
 *Oder vielleicht geht ihr noch mehr in die Schulden…*
 
-> 25ster Bezirk in Shirogane  - Grundstück 53
+* 25ster Bezirk in Shirogane  - Grundstück 53
 
 ##### Das "Neko:Cafe"
 
 Jeder Krieger und jede Kriegerin des Lichts braucht zwischendurch eine kleine Auszeit. Auch wenn die Insel nicht mehr viel Ruhe bietet, wartet unser Café auf euch. Ob drinnen oder draußen, es gibt eine große Auswahl an Brotsorten und eine entspannte Atmosphäre, in der euch garantiert niemand belästigt.
 
-> 25ster Bezirk in Shirogane  - Grundstück 56
+* 25ster Bezirk in Shirogane  - Grundstück 56
 
 ##### Das "Neko:Spa"
 
 Ist es nicht mal wieder an der Zeit, den ganzen Dreck vom Grinding und Farming abzuwaschen? Im Neko:Spa könnt ihr das jetzt machen! Schnappt euch ein paar Freunde, und gemeinsam könnt ihr im warmen, salzigen Onsen-Wasser neue Kräfte tanken und all die Unreinheiten abspülen.
 
-> 25ster Bezirk in Shirogane  - Grundstück 57
+* 25ster Bezirk in Shirogane  - Grundstück 57
 
 Ihr könnt gerade nicht ins Spiel, wollt aber trotzdem wissen, wie es bei uns aussieht? Dann schaut doch einfach mal durch unsere Auswahl an Bildern von unseren Standorten!
 
