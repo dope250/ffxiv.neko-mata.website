@@ -40,25 +40,7 @@ url = "events/"
 [[main]]
 weight = 5
 name = "Plots"
-hasChildren = true
-
-[[main]]
-weight = 1
-parent = "Plots"
-name = "🐱 Katzenkörbchen"
-url = "plot_katzenkoerbchen/"
-
-[[main]]
-weight = 2
-parent = "Plots"
-name = "🎭 Events"
-url = "plot_events/"
-
-[[main]]
-weight = 3
-parent = "Plots"
-name = "🍻 Taverne"
-url = "plot_taverne/"
+url = "plots/"
 
 # footer menu
 [[footer]]
