@@ -3,7 +3,7 @@ title: "Glamalam: Halloween Spezial"
 meta_title: ""
 description: "Am heutigen Sonntag,20.10 fand wieder Glamalam statt getreu nach dem Motto lasst es Gruseln."
 date: 2024-10-23T18:41:54+02:00
-image: "/images/blog/image-placeholder.png"
+image: "/images/blog/NekoEvent_Glamalam.png"
 categories: ["Neko:Event"]
 author: "Jacquie Sinjabu"
 draft: false

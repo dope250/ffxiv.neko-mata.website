@@ -3,7 +3,7 @@ title: "Glamalam: Altes Griechenland"
 meta_title: ""
 description: "Am heutigen Abend fand wieder das Glamalam statt mit dem Thema altes Griechenland. "
 date: 2025-03-27T21:12:02+01:00
-image: "/images/blog/image-placeholder.png"
+image: "/images/blog/NekoEvent_Glamalam.png"
 categories: ["Neko:Event"]
 author: "Jacquie Sinjabu"
 draft: false
