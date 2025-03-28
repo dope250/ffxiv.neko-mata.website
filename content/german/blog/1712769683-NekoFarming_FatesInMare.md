@@ -3,7 +3,7 @@ title: "Faterun: Mare Lamentorum"
 meta_title: ""
 description: "Nein, die Nekos waren nicht in Limsa für RP!"
 date: 2024-04-10T19:21:38+02:00
-image: "/images/blog/NekoFarming_FatesMare.png"
+image: "/images/blog/NekoFarming_Fates.png"
 categories: ["Neko:Farming"]
 author: "Venox Meow"
 draft: false

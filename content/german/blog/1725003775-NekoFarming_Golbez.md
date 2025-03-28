@@ -3,7 +3,7 @@ title: "Eschatos - Golbez"
 meta_title: ""
 description: "Dieses mal ging es für die Nekos auf den Roten Mond, in der Hoffnung Golbez eines seiner Mounts abzuluchsen."
 date: 2024-08-30T09:43:14+02:00
-image: "/images/blog/NekoFarming_Golbez.png"
+image: "/images/blog/NekoFarming_Farming.png"
 categories: ["Neko:Farming"]
 author: "Yuuki Farron"
 draft: false

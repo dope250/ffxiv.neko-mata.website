@@ -3,7 +3,7 @@ title: "Zeromus"
 meta_title: ""
 description: "In den finsteren Weiten des roten Mondes wagten sich acht tapfere Kameraden erneut in die Tiefen des Unbekannten."
 date: 2024-05-13T17:39:18+02:00
-image: "/images/blog/NekoFarming_Zeromus.png"
+image: "/images/blog/NekoFarming_Farming.png"
 categories: ["Neko:Farming"]
 author: "Shiny Rokon"
 draft: false

@@ -3,7 +3,7 @@ title: "Fates in Elpis!"
 meta_title: ""
 description: "Nachdem die Zeit vor dem Faterun, durchzogen war von einer Reihe nerviger Disconnects, konnte trotzdem pünktlich gestartet werden"
 date: 2024-05-09T22:07:56+02:00
-image: "/images/blog/NekoFarming_FatesElpis.png"
+image: "/images/blog/NekoFarming_Fates.png"
 categories: ["Neko:Farming"]
 author: "Venox Meow"
 draft: false

@@ -3,7 +3,7 @@ title: "Auf geht's, ab geht's, Golbez muss liegen!"
 meta_title: ""
 description: "Wir standen heute erneut Golbez gegenüber. An und für sich ein recht lustiger Fight, nur gönnt er uns heute nichts."
 date: 2024-10-02T22:40:20+02:00
-image: "/images/blog/NekoFarming_Golbez.png"
+image: "/images/blog/NekoFarming_Farming.png"
 categories: ["Neko:Farming"]
 author: "Yashmina Alfhelya"
 draft: false

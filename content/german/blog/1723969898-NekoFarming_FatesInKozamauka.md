@@ -3,7 +3,7 @@ title: "Fate Fater am Fatesten"
 meta_title: ""
 description: "Heute haben sich 7 Mutige Nekos versammelt um Fates in Kozama'uka abzuschließen."
 date: 2024-08-18T10:32:00+02:00
-image: "/images/blog/NekoFarming_FatesKozamauka.png"
+image: "/images/blog/NekoFarming_Fates.png"
 categories: ["Neko:Farming"]
 author: "Sek Niichan"
 draft: false

@@ -3,7 +3,7 @@ title: "Fates in Elpis into Ultima Thule! ♥"
 meta_title: ""
 description: "Heute versammelten sich wieder sieben fleissige Nekos auf eine weitere Jagt nach Fates in Elpis und Ultima Thule."
 date: 2024-05-23T21:44:32+02:00
-image: "/images/blog/NekoFarming_FatesMare.png"
+image: "/images/blog/NekoFarming_Fates.png"
 categories: ["Neko:Farming"]
 author: "Jacquie Sinjabu"
 draft: false

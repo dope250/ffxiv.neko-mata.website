@@ -3,7 +3,7 @@ title: "Glamalam: Mein Sammler und ich"
 meta_title: ""
 description: "Am 20. April hieß es wieder: Vorhang auf und Bühne frei für das 7. Neko:Mata Glamalam!!"
 date: 2024-04-20T21:03:07+02:00
-image: "/images/blog/NekoEvent_GlamalamSammlerUndIch.png"
+image: "/images/blog/NekoEvent_Glamalam.png"
 categories: ["Neko:Event"]
 author: "Fio Inari"
 draft: false

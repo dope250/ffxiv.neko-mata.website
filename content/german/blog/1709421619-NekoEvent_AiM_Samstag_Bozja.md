@@ -3,7 +3,7 @@ title: "Alles ist möglich Samstag: Bozja!"
 meta_title: ""
 description: "Der erste alles ist möglich Samstag"
 date: 2024-03-03T00:20:19+01:00
-image: "/images/blog/NekoAimS_Bozja.png"
+image: "/images/blog/NekoAimS.png"
 categories: ["Neko:Event"]
 author: "Dopine L. Faerondal"
 draft: false

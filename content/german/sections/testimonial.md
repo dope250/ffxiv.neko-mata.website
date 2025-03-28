@@ -10,16 +10,6 @@ testimonials:
     avatar: "/images/avatar-fio.png"
     content: "Gute Seele und Organisatorin der chaotischen Nekos. Stets ihr kleines, nicht mit bunten Hintergrund, :notebook:	Notizbüchlein alles im Blick und alles notiert."
 
-  - name: "Zoe Silvercloud"
-    designation: "Operator"
-    avatar: "/images/avatar-zoe.png"
-    content: "Mit voller Hingabe unsere Event- sowie Neuzugangsmanagerin und :video_camera: Videoschnitt-Hobbyist."
-
-  - name: "Silas Silvercloud"
-    designation: "Operator"
-    avatar: "/images/avatar-silas.png"
-    content: "Verliebt in seine Tauchboote und Luftschiffe. Wohnt und schläft in der Werkstatt. Bittet regelmäßig darum ihn ab und an zu besuchen sowie Essen mitzubringen, da er sich sonst vom Garten ernähren muss."
-
   - name: "Aes Mana"
     designation: "Operator"
     avatar: "/images/avatar-aes.png"

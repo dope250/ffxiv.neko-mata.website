@@ -3,7 +3,7 @@ title: "Fates!"
 meta_title: ""
 description: "Am heutigen Abend versammelten sich wieder acht eifrige Nekos für die  Fatejagt. "
 date: 2024-06-19T20:03:59+02:00
-image: "/images/blog/NekoFarming_FatesGarlemald.png"
+image: "/images/blog/NekoFarming_Fates.png"
 categories: ["Neko:Farming"]
 author: "Jacquie Sinjabu"
 draft: false

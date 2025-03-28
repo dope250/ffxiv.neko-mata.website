@@ -3,7 +3,7 @@ title: "Zeromus?!?!?!"
 meta_title: ""
 description: "Die endlose Quälerei des Mount-Farmings: die Tiefen des roten Mondes"
 date: 2024-06-17T23:09:37+02:00
-image: "/images/blog/NekoFarming_Zeromus.png"
+image: "/images/blog/NekoFarming_Farming.png"
 categories: ["Neko:Farming"]
 author: "Shiny Rokon"
 draft: false

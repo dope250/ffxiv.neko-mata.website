@@ -3,7 +3,7 @@ title: "Zeromus"
 meta_title: ""
 description: ""
 date: 2024-05-21T19:16:49+02:00
-image: "/images/blog/NekoFarming_Zeromus.png"
+image: "/images/blog/NekoFarming_Farming.png"
 categories: ["Neko:Farming"]
 author: "Venox Meow"
 draft: false

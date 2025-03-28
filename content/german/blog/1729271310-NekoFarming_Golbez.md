@@ -3,7 +3,7 @@ title: "Golbez again"
 meta_title: ""
 description: "Auch heute war es wieder soweit und 7 Nekos plus 1 Freund statteten Golbez mal wieder einen Besuch ab um auch endlich ihren letzten Luchs zu bekommen."
 date: 2024-10-18T19:08:39+02:00
-image: "/images/blog/NekoFarming_Golbez.png"
+image: "/images/blog/NekoFarming_Farming.png"
 categories: ["Neko:Farming"]
 author: "Yuuki Farron"
 draft: false

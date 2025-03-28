@@ -3,7 +3,7 @@ title: "1. Real Talk"
 meta_title: ""
 description: ""
 date: 2024-09-11T17:51:11+02:00
-image: "/images/blog/NekoEvent_Realtalk1.png"
+image: "/images/blog/NekoEvent_Realtalk.png"
 categories: ["Neko:Event"]
 author: "Valda Celeste"
 draft: false

@@ -3,7 +3,7 @@ title: "Alles ist möglich Samstag - Jagd auf Poncho!"
 meta_title: ""
 description: "Nach langem Überlegen, welche Kleidung uns am besten stehen würde, entschieden wir uns für den Poncho."
 date: 2024-09-08T10:58:16+02:00
-image: "/images/blog/NekoAimS_Poncho.png"
+image: "/images/blog/NekoAimS.png"
 categories: ["Neko:Event"]
 author: "Shiny Rokon"
 draft: false

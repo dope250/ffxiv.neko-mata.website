@@ -3,7 +3,7 @@ title: "Fates: Ultima Thule"
 meta_title: ""
 description: "Am heutigen Abend fand sich wieder acht eifrige Nekos zusammen um wieder auf die Jagd nach Fates zu gehen. "
 date: 2024-06-07T20:15:44+02:00
-image: "/images/blog/NekoFarming_FatesUltima.png"
+image: "/images/blog/NekoFarming_Fates.png"
 categories: ["Neko:Farming"]
 author: "Jacquie Sinjabu"
 draft: false

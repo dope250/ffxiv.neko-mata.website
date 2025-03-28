@@ -3,7 +3,7 @@ title: "Sommer, Strand und Meer"
 meta_title: ""
 description: ""
 date: 2024-08-11T21:51:25+02:00
-image: "/images/blog/NekoEvent_SommerScreenshots.png"
+image: "/images/blog/NekoEvent.png"
 categories: ["Neko:Event"]
 author: "Jacquie Sinjabu"
 draft: false
@@ -13,3 +13,5 @@ Unsere Sommerpause für die Events ist nun vorbei und die lustigen Aktivitäten 
 
 Die Auswertung der Bild stelle sich als sehr knapp und spannend heraus da immer nur 1-2 Punkte unterschied war. Da merkt man das sich jeder auf seiner Weise mühe und Gedanken gemacht hatte. Nachdem es noch ein Stechen um den 3. Platz gab , da es drei Nekos dahin geschafft hatten, gab es auch dort einen festen Sieger. So wurden 3 von den 14 Nekos zu den Siegern ernannt und durften sich die Preise ergattern. Zum Schluss machte unsere Foto:Neko noch ein schönes Erinnerungsbild von den Siegern. 
 Es war zwar nur ein kleines Event aber wer weis was unsere Event-Nekos noch alles so geplant haben.
+
+![Bildercollage aller eingereichten Bilder zum Event](images/blog/screenshots/1723405877-NekoEvent_SommerScreenshots.jpg)

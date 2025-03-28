@@ -3,7 +3,7 @@ title: "Nekos am Faten"
 meta_title: ""
 description: "Diese Woche trafen sich 11 Nekos, um erneut wie ein *Heuschreckenschwarm* Fates zu grinden, damit zu leveln und die zweifarbigen Edelsteine zu ergattern."
 date: 2024-07-27T00:34:13+02:00
-image: "/images/blog/NekoFarming_FatesKozamauka.png"
+image: "/images/blog/NekoFarming_Fates.png"
 categories: ["Neko:Farming"]
 author: "Fio Inari"
 draft: false

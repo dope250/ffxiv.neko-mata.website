@@ -3,7 +3,7 @@ title: "Rubicante"
 meta_title: ""
 description: "Die Gruppe von 8 tapferen Spielern stürmte den Berg des mächtigen Rubicante."
 date: 2024-04-23T20:16:28+02:00
-image: "/images/blog/NekoFarming_Rubicante.png"
+image: "/images/blog/NekoFarming_Farming.png"
 categories: ["Neko:Farming"]
 author: "Shiny Rokon"
 draft: false

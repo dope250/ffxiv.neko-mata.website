@@ -3,7 +3,7 @@ title: "Golbez ala Hollandaise"
 meta_title: ""
 description: "Es war wieder so weit 8 Nekos sind in das Territorium von Golbez eingedrungen. Diesmal waren 3 Mitglieder unsere Partner FC Ashes of Dreams mit dabei."
 date: 2024-09-20T21:32:29+02:00
-image: "/images/blog/NekoFarming_Golbez.png"
+image: "/images/blog/NekoFarming_Farming.png"
 categories: ["Neko:Farming"]
 author: "Muddel Vonkopp"
 draft: false

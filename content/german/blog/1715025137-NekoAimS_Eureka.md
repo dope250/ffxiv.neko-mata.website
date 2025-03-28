@@ -3,7 +3,7 @@ title: "Alles ist möglich Samstag: Eureka!"
 meta_title: ""
 description: "Das Rad wurde erneut gedreht und hat gesprochen. Der nächste Alles ist möglich Samstag war ganz im Ziele von Eureka!"
 date: 2024-05-06T21:52:48+02:00
-image: "/images/blog/NekoAimS_Eureka.png"
+image: "/images/blog/NekoAimS.png"
 categories: ["Neko:Event"]
 author: "Dopine L. Faerondal"
 draft: false

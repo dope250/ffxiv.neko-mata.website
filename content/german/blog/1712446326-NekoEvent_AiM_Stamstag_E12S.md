@@ -3,7 +3,7 @@ title: "Alles ist möglich Samstag: E12S!"
 meta_title: ""
 description: "Der zweite alles ist möglich Samstag"
 date: 2024-04-07T01:32:27+02:00
-image: "/images/blog/NekoAimS_E12S.png"
+image: "/images/blog/NekoAimS.png"
 categories: ["Neko:Event"]
 author: "Venox Meow"
 draft: false

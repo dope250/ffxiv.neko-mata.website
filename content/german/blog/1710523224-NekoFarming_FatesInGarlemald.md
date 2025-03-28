@@ -3,7 +3,7 @@ title: "Fates in Garlemald! ♥"
 meta_title: ""
 description: "Unser FATE farming in Garlemald"
 date: 2024-03-15T18:20:33+01:00
-image: "/images/blog/NekoFarming_FatesGarlemald.png"
+image: "/images/blog/NekoFarming_Fates.png"
 categories: ["Neko:Farming"]
 author: "Fio Inari"
 draft: false

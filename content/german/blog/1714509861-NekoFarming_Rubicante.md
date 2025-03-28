@@ -3,7 +3,7 @@ title: "Rubicante"
 meta_title: ""
 description: "Und einmal mehr ging es wieder weiter mit:"
 date: 2024-04-30T22:44:26+02:00
-image: "/images/blog/NekoFarming_Rubicante.png"
+image: "/images/blog/NekoFarming_Farming.png"
 categories: ["Neko:Farming"]
 author: "Fio Inari"
 draft: false

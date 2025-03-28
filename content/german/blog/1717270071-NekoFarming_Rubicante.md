@@ -3,7 +3,7 @@ title: "Die endlose Quälerei des Mount-Farmings: eine Ära geht zu Ende ..."
 meta_title: ""
 description: "Fürs Erste ist ihr Ziel erreicht, alle Nekos können nun glücklich auf dem **Fegefeuer-Luchs** durch die Wälder Eorzeas streifen"
 date: 2024-06-01T21:27:57+02:00
-image: "/images/blog/NekoFarming_Rubicante_Finished.png"
+image: "/images/blog/NekoFarming_Farming.png"
 categories: ["Neko:Farming"]
 author: "Fio Inari"
 draft: false

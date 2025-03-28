@@ -3,7 +3,7 @@ title: "Eschatos – Golbez"
 meta_title: ""
 description: "Am Mittwoch war es wieder soweit 7 Nekos und 1 Freund stellten sich wieder Golbez"
 date: 2024-10-27T20:16:04+01:00
-image: "/images/blog/NekoFarming_Golbez.png"
+image: "/images/blog/NekoFarming_Farming.png"
 categories: ["Neko:Farming"]
 author: "Ansurem Mograine"
 draft: false

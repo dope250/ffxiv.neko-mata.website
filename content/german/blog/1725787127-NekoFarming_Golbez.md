@@ -3,7 +3,7 @@ title: "Unsere Kraft gegen seine Schwertkunst"
 meta_title: ""
 description: "Es begab sich zu einer Zeit, zu der sich acht mutige Nekos an einem Mittwochabend auf machten zu einem großen Abenteuer."
 date: 2024-09-08T11:19:04+02:00
-image: "/images/blog/NekoFarming_Golbez.png"
+image: "/images/blog/NekoFarming_Farming.png"
 categories: ["Neko:Farming"]
 author: "Yumi Light"
 draft: false

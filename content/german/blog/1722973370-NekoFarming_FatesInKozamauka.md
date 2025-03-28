@@ -3,7 +3,7 @@ title: "Fate(ality)"
 meta_title: ""
 description: "Es war wieder soweit, 17 Nekos und als Primiere 3 Mitglieder von unser Partner FC auf Raiden gingen Faten und es war einiges los."
 date: 2024-08-06T21:43:49+02:00
-image: "/images/blog/NekoFarming_FatesKozamauka.png"
+image: "/images/blog/NekoFarming_Fates.png"
 categories: ["Neko:Farming"]
 author: "Muddel Vonkopp"
 draft: false

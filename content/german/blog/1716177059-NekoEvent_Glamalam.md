@@ -3,7 +3,7 @@ title: "Glamalam: Brautjungfern und Trauzeugen"
 meta_title: ""
 description: "Am 18. Mai war unser Laufsteg für Glamalam wieder eröffnet und diesmal war unser Motto..."
 date: 2024-05-19T05:51:48+02:00
-image: "/images/blog/NekoEvent_GlamalamBrautjungfernTrauzeugen.png"
+image: "/images/blog/NekoEvent_Glamalam.png"
 categories: ["Neko:Event"]
 author: "Zoe Silvercloud"
 draft: false

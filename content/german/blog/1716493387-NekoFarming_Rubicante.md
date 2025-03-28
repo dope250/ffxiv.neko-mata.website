@@ -3,7 +3,7 @@ title: "Rubicante"
 meta_title: ""
 description: "Der Berg der Tortur galt als unüberwindbare Herausforderung, um den Boss Rubicante zu erreichen."
 date: 2024-05-23T21:43:18+02:00
-image: "/images/blog/NekoFarming_Rubicante.png"
+image: "/images/blog/NekoFarming_Farming.png"
 categories: ["Neko:Farming"]
 author: "Shiny Rokon"
 draft: false

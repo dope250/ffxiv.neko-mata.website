@@ -3,7 +3,7 @@ title: "Real Talk 24.01.25"
 meta_title: ""
 description: "Fünf Nekos fanden sich zusammen um über zwei Themen zu sprechen."
 date: 2025-01-26T22:14:13+01:00
-image: "/images/blog/NekoEvent_Realtalk1.png"
+image: "/images/blog/NekoEvent_Realtalk.png"
 categories: ["Neko:Event"]
 author: "Valda Celeste"
 draft: false

@@ -3,7 +3,7 @@ title: "Fates!"
 meta_title: ""
 description: "Auch heute versammelten sich wieder einige Nekos um ihren Fate Fortschritt weiter voranzutreiben."
 date: 2025-01-10T17:01:02+01:00
-image: "/images/blog/NekoFarming_FatesKozamauka.png"
+image: "/images/blog/NekoFarming_Fates.png"
 categories: ["Neko:Farming"]
 author: "Yuuki Farron"
 draft: false

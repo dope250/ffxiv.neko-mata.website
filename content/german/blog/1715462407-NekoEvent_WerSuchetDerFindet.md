@@ -3,7 +3,7 @@ title: "Wer suchet der findet!"
 meta_title: ""
 description: "Am heutigen Samstag haben sich die Event-Nekos wieder ein Spiel ausgedacht."
 date: 2024-05-11T23:20:48+02:00
-image: "/images/blog/NekoEvent_WerSuchetDerFindet.png"
+image: "/images/blog/NekoEvent_WerSuchetDerFindet2024.png"
 categories: ["Neko:Event"]
 author: "Jacquie Sinjabu"
 draft: false

@@ -3,7 +3,7 @@ title: "Rubicante"
 meta_title: ""
 description: "Die endlose Quälerei des Mount-Farmings: Rubicante – ob ihr wirklich richtig steht, seht ihr ob er euch eins überbrät…"
 date: 2024-05-12T20:13:16+02:00
-image: "/images/blog/NekoFarming_Rubicante.png"
+image: "/images/blog/NekoFarming_Farming.png"
 categories: ["Neko:Farming"]
 author: "Fio Inari"
 draft: false

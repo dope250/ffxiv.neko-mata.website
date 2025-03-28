@@ -3,7 +3,7 @@ title: "Zeromus"
 meta_title: ""
 description: "Auch heute wagten sich wieder 8 mutige Nekos ins Verlies von Zeromus"
 date: 2024-08-08T00:48:15+02:00
-image: "/images/blog/NekoFarming_Zeromus.png"
+image: "/images/blog/NekoFarming_Farming.png"
 categories: ["Neko:Farming"]
 author: "Yuuki Farron"
 draft: false

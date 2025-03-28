@@ -3,7 +3,7 @@ title: "Fates In Uqopacha"
 meta_title: ""
 description: "Heute Abend war es wieder soweit die Nekos machten sich erneut nach Urqopacha auf um die zweite runde FATES in diesem Gebiet zu erledigen."
 date: 2024-07-22T18:46:44+02:00
-image: "/images/blog/NekoFarming_Urqopacha.png"
+image: "/images/blog/NekoFarming_Fates.png"
 categories: ["Neko:Farming"]
 author: "Miku May"
 draft: false

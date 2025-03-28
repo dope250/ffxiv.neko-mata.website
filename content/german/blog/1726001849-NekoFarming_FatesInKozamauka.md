@@ -3,7 +3,7 @@ title: "Fates In Kozama'uka"
 meta_title: ""
 description: "Die erste Fate Jagd im September wurde von vielen Emotionen und Momenten aus der Vergangenheit begleitet."
 date: 2024-09-10T22:57:55+02:00
-image: "/images/blog/NekoFarming_FatesKozamauka.png"
+image: "/images/blog/NekoFarming_Fates.png"
 categories: ["Neko:Farming"]
 author: "Ces Solaris"
 draft: false

@@ -3,7 +3,7 @@ title: "Real Talk"
 meta_title: ""
 description: "Am Montag den 21.10. gab es wieder eine Runde Real Talk mit dem Thema Unvergessliche Momente."
 date: 2024-10-23T18:44:01+02:00
-image: "/images/blog/NekoEvent_Realtalk1.png"
+image: "/images/blog/NekoEvent_Realtalk.png"
 categories: ["Neko:Event"]
 author: "Jacquie Sinjabu"
 draft: false

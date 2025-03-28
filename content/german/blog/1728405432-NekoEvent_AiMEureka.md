@@ -3,7 +3,7 @@ title: "Alles ist möglich Samstag: Eureka"
 meta_title: ""
 description: ""
 date: 2024-10-08T18:38:01+02:00
-image: "/images/blog/NekoAimS_Eureka.png"
+image: "/images/blog/NekoAimS.png"
 categories: ["Neko:Event"]
 author: "Yuuki Farron"
 draft: false

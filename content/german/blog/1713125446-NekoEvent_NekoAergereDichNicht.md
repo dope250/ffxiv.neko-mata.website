@@ -3,7 +3,7 @@ title: "Neko ärgere dich nicht!"
 meta_title: ""
 description: "Heute Abend wurden die Nekos von den Event:Nekos zu einem Spieleabend eingeladen"
 date: 2024-04-14T22:11:14+02:00
-image: "/images/blog/NekoEvent_NekoAergereDichNicht.png"
+image: "/images/blog/NekoEvent_NekoAergereDichNicht2024.png"
 categories: ["Neko:Event"]
 author: "Jacquie Sinjabu"
 draft: false

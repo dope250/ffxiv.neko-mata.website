@@ -3,7 +3,7 @@ title: "Golbez"
 meta_title: ""
 description: "Auch heute war es wieder soweit und es hieß 8 Nekos vs Golbez."
 date: 2024-09-12T21:35:04+02:00
-image: "/images/blog/NekoFarming_Golbez.png"
+image: "/images/blog/NekoFarming_Farming.png"
 categories: ["Neko:Farming"]
 author: "Yuuki Farron"
 draft: false

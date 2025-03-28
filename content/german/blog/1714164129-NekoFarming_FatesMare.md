@@ -3,7 +3,7 @@ title: "Fates in Mare Lamentorum"
 meta_title: ""
 description: "Wieder ein mal fanden sich 9 kleine Nekos zusammen um auch den heutigen Abend, beim gemütlichem beisammen sein Fates zu machen."
 date: 2024-04-26T22:42:23+02:00
-image: "/images/blog/NekoFarming_FatesMare.png"
+image: "/images/blog/NekoFarming_Fates.png"
 categories: ["Neko:Farming"]
 author: "Mary May"
 draft: false

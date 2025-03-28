@@ -3,7 +3,7 @@ title: "Fatetales Vergnügen"
 meta_title: ""
 description: "Auch heute haben sich wieder 8 Nekos zusammen getan um ihre Fates in Yak Tel abzuschließen."
 date: 2024-08-31T14:52:48+02:00
-image: "/images/blog/NekoFarming_FatesYakTel.png"
+image: "/images/blog/NekoFarming_Fates.png"
 categories: ["Neko:Farming"]
 author: "Yuuki Farron"
 draft: false

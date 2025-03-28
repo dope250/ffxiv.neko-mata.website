@@ -3,7 +3,7 @@ title: "Rubicante"
 meta_title: ""
 description: ""
 date: 2024-03-26T14:10:57+01:00
-image: "/images/blog/NekoFarming_Rubicante.png"
+image: "/images/blog/NekoFarming_Farming.png"
 categories: ["Neko:Farming"]
 author: "Fio Inari"
 draft: false

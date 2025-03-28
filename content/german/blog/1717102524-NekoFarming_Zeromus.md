@@ -3,7 +3,7 @@ title: "Zeromus"
 meta_title: ""
 description: "Die endlose Quälerei des Mount-Farmings: die Tiefen des roten Mondes"
 date: 2024-05-30T22:55:30+02:00
-image: "/images/blog/NekoFarming_Zeromus.png"
+image: "/images/blog/NekoFarming_Farming.png"
 categories: ["Neko:Farming"]
 author: "Fio Inari"
 draft: false
