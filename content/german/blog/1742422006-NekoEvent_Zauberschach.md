@@ -11,6 +11,7 @@ draft: false
 
 Das Event im März war für mich ganz besonders, denn ausnahmsweise durfte ich es planen und durchführen.
 So kam ich zu der glorreichen Idee, dass wir doch *Zauberschach*, ähnlich wie in Harry Potter, spielen könnten.
+
 Natürlich habe ich mir im Vorfeld sehr viele Gedanken über die Umsetzung und Kleidung gemacht, was sich teilweise als gar nicht so einfach darstellte...
 
 **Doch ich habe nicht aufgegeben und so war es am *15.03.25* endlich soweit ♥**  
@@ -102,6 +103,6 @@ So endete unser Zauberschach nach 2 Matches in 2 Stunden.
 Ich war super glücklich, dass die anderen so viel Spaß bei dem Event hatten und die Umsetzung auch so gut funktionierte, wie ich mir das ausgedacht habe.  
 Jedoch bin ich sehr froh, dass das nächste Event wieder von unseren *Event Managern* geplant und durchgeführt wird 😉
 
-Alle Fotos des Abends findet ihr in unserem *Bilder Archive* unter https://img.electronicping.net/album/Zauberschach.8pMy
+Alle Fotos des Abends findet ihr in unserem *Bilder Archiv* unter https://img.electronicping.net/album/Zauberschach.8pMy
 
-![Nekos die fröhlich vor der Beute, einer Schatztruhe, stehen.](images/blog/screenshots/1742422006-NekoEvent_Zauberschach.jpg)
+![Bildercollage aus dem Zauberschach-Event. Zu sehen sind überwiegend Kämpfe.](images/blog/screenshots/1742422006-NekoEvent_Zauberschach.jpg)
