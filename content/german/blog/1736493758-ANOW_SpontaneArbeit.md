@@ -2,7 +2,7 @@
 title: "Spontane Arbeit"
 meta_title: ""
 description: "Ein paar Nekos die auf dem Bordstein vor dem Gildenhaus herumstanden"
-date: 2025-01-8T08:23:23+01:00
+date: 2025-01-08T08:23:23+01:00
 image: "/images/blog/ANOW.png"
 categories: ["Alles Neko, oder was?!"]
 author: "Venox Meow"
