@@ -30,3 +30,5 @@ Insgesamt hatten sie an diesem Abend:
 * 18 Pulls bei Titan (Zenit der Götter) Longest Pull 7:48 Minuten - **Erfolgreich**
 * 1 Pull bei Ifrit (Götterdämmerung) 6:43 Minuten - **Erfolgreich**
 * 19 Pulls bei Ifrit (Zenti der Götter) Longest Pull 6:43 Minuten
+
+![Nekos die im Inhalt Ifrit sich für den Kampf vorbereiten.](images/blog/screenshots/1742422018-NekoEvent_AiMSRaids.jpg)
