@@ -33,9 +33,10 @@ Das Hosting läuft über Azure in einem europäischen Rechenzentrum. Beim Aufruf
 
 #### Blog?
 
-* Jeder Blog Eintrag enthält, den zu diesem Zeitpunkt, in Final Fantasy XIV verwendeten Charakternamen als Autor mit eigener Autorenseite. Der Autor wird bei Austritt aus der Freien Gesellschaft automatisch anonymisiert bzw. entfernt.
-* Inhaltlich werden keine charakter- oder personenbezogenen Informationen erwähnt.
+* Jeder Blog Eintrag enthält, den zu diesem Zeitpunkt, in Final Fantasy XIV verwendeten Charakternamen als Autor mit eigener Autorenseite. Der Autor wird bei Austritt aus der Freien Gesellschaft zügig anonymisiert bzw. entfernt.
+* Inhaltlich werden keine charakter- oder personenbezogenen Informationen veröffentlicht.
 * Sollen spezielle Einträge dennoch entfernt werden, aus welchen Gründen auch immer, gerne via Discord (#dope250) oder dem [Kontaktformular](/contact) melden.
+* Ein [Neko:Portrait](/about) wird nur mit der jeweiligen Zustimmung dieser Neko erstellt und bei Austritt entfernt.
 
 #### Bilder, Screenshots, Music & Videos?
 
