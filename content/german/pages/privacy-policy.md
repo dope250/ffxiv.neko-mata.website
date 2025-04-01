@@ -31,6 +31,12 @@ Nüchts.
 
 Das Hosting läuft über Azure in einem europäischen Rechenzentrum. Beim Aufruf der Website werden nur technisch notwendige Informationen übermittelt.
 
+#### Blog?
+
+* Jeder Blog Eintrag enthält, den zu diesem Zeitpunkt, in Final Fantasy XIV verwendeten Charakternamen als Autor mit eigener Autorenseite. Der Autor wird bei Austritt aus der Freien Gesellschaft automatisch anonymisiert bzw. entfernt.
+* Inhaltlich werden keine charakter- oder personenbezogenen Informationen erwähnt.
+* Sollen spezielle Einträge dennoch entfernt werden, aus welchen Gründen auch immer, gerne via Discord (#dope250) oder dem [Kontaktformular](/contact) melden.
+
 #### Bilder, Screenshots, Music & Videos?
 
 Alle Screenshots; Logos; Videos; Music und/oder Namensnennung(en) aus dem Spiel [FINAL FANTASY XIV](https://de.finalfantasyxiv.com) oder der NieR:Automata Spielreihe.
