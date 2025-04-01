@@ -5,7 +5,7 @@ description: "Am 18. Mai war unser Laufsteg für Glamalam wieder eröffnet und d
 date: 2024-05-19T05:51:48+02:00
 image: "/images/blog/NekoEvent_Glamalam.png"
 categories: ["Neko:Event"]
-author: "Zoe Silvercloud"
+author: "Eine Neko"
 draft: false
 ---
 

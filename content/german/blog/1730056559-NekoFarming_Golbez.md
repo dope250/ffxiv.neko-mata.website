@@ -5,7 +5,7 @@ description: "Am Mittwoch war es wieder soweit 7 Nekos und 1 Freund stellten sic
 date: 2024-10-27T20:16:04+01:00
 image: "/images/blog/NekoFarming_Farming.png"
 categories: ["Neko:Farming"]
-author: "Ansurem Mograine"
+author: "Ansurem Thalos"
 draft: false
 ---
 

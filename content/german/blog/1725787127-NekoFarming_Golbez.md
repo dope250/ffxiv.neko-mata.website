@@ -5,7 +5,7 @@ description: "Es begab sich zu einer Zeit, zu der sich acht mutige Nekos an eine
 date: 2024-09-08T11:19:04+02:00
 image: "/images/blog/NekoFarming_Farming.png"
 categories: ["Neko:Farming"]
-author: "Yumi Light"
+author: "Eine Neko"
 draft: false
 ---
 

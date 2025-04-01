@@ -5,7 +5,7 @@ description: "Die endlose Quälerei des Mount-Farmings: die Tiefen des roten Mon
 date: 2024-06-15T00:58:09+02:00
 image: "/images/blog/NekoFarming_Farming.png"
 categories: ["Neko:Farming"]
-author: "Ansurem Mograine"
+author: "Ansurem Thalos"
 draft: false
 ---
 

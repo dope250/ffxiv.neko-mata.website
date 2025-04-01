@@ -5,7 +5,7 @@ description: "Die endlose Quälerei des Mount-Farmings: Ob Feuer, Wind oder Eis,
 date: 2024-07-20T19:20:54+02:00
 image: "/images/blog/image-placeholder.png"
 categories: ["Neko:Farming"]
-author: "Ansurem Mograine"
+author: "Ansurem Thalos"
 draft: false
 ---
 

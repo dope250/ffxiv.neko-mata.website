@@ -5,7 +5,7 @@ description: "Am 9.11 war es endlich wieder soweit!"
 date: 2024-11-17T13:34:55+01:00
 image: "/images/blog/image-placeholder.png"
 categories: ["Neko:Event"]
-author: "Miku May"
+author: "Eine Neko"
 draft: false
 ---
 

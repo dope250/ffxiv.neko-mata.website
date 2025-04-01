@@ -5,7 +5,7 @@ description: ""
 date: 2024-07-06T03:46:01+02:00
 image: "/images/blog/image-placeholder.png"
 categories: ["Neko:Farming"]
-author: "Ansurem Mograine"
+author: "Ansurem Thalos"
 draft: false
 ---
 

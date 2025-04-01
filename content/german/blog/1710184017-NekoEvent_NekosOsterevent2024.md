@@ -11,8 +11,8 @@ draft: false
 
 Am 9. März gab es wieder ein großes Event. Die Nekos durften :egg: im kleinen Eventhaus suchen in Form von bunten :wine_glass: Weingläsern. Das Interesse war groß. 
 
-Die Nekos **Zoe** und **Kimari**, die das Event leiteten und entwickelten, gaben sich Mühe es den anderen Mitgliedern nicht allzu leicht zu machen. Mit Zeitdruck, ohne Licht bis auf kleine Lampen und dem rumgehüpfe von **Zoe** und **Kimari**, haben die teilnehmenden Nekos doch reichlich :wine_glass: Gläser gefunden.
+Die Event:Nekos, die das Event leiteten und entwickelten, gaben sich Mühe es den anderen Mitgliedern nicht allzu leicht zu machen. Mit Zeitdruck, ohne Licht bis auf kleine Lampen und dem rumgehüpfe vom Team, haben die teilnehmenden Nekos doch reichlich :wine_glass: Gläser gefunden.
 
 Alles in allem war der Abend ein voller Erfolg und es gab auch eine Siegerehrung der drei besten Finder. Aber es ging an diesem Abend niemand mit leeren Händen raus den für alle Teilnehmer gab es ein *Kaninchen-Pet* als Trostpreis. Ganz zum Schluss machte unsere Fotoneko Dopine noch ein paar schöne Bilder zur Erinnerung.
 
-Die Event-Nekos **Zoe** und **Kimari** haben an diesem Abend ihre Feuerprobe bestanden und wir sind gespannt mit welchen Events sie in Zukunft die Nekos auf trapp halten. 
+Die Event-Nekos haben an diesem Abend ihre Feuerprobe bestanden und wir sind gespannt mit welchen Events sie in Zukunft die Nekos auf trapp halten. 

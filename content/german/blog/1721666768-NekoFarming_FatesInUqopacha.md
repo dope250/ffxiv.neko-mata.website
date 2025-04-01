@@ -5,7 +5,7 @@ description: "Heute Abend war es wieder soweit die Nekos machten sich erneut nac
 date: 2024-07-22T18:46:44+02:00
 image: "/images/blog/NekoFarming_Fates.png"
 categories: ["Neko:Farming"]
-author: "Miku May"
+author: "Eine Neko"
 draft: false
 ---
 

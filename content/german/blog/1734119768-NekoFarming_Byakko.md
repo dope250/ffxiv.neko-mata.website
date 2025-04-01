@@ -5,7 +5,7 @@ description: "Diese Woche haben sich die Nekos und ihre Freunde zusammengefunden
 date: 2024-12-13T20:57:05+01:00
 image: "/images/blog/image-placeholder.png"
 categories: ["Neko:Farming"]
-author: "Ansurem Mograine"
+author: "Ansurem Thalos"
 draft: false
 ---
 

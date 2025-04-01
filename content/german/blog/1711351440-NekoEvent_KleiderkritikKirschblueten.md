@@ -5,7 +5,7 @@ description: "Das diesmonatige Kleiderkritik Thema: Kirschblüten"
 date: 2024-03-25T08:24:44+01:00
 image: "/images/blog/NekoEvent_Glamalam.png"
 categories: ["Neko:Event"]
-author: "Zoe Silvercloud"
+author: "Eine Neko"
 draft: false
 ---
 

@@ -5,7 +5,7 @@ description: "Am 14.06.2024 haben sich 6 Nekos in die Schatzkammern Eorzeas verl
 date: 2024-06-14T01:23:09+02:00
 image: "/images/blog/NekoFarming_Schatzkarten.png"
 categories: ["Neko:Farming"]
-author: "Clara Himmel"
+author: "Eine Neko"
 draft: false
 ---
 

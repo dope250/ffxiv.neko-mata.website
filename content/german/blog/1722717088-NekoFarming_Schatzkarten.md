@@ -5,7 +5,7 @@ description: "oder: der steinige Weg, um zur goldenen Manineko zu werden (Winkek
 date: 2024-08-03T22:31:38+02:00
 image: "/images/blog/NekoFarming_Schatzkarten.png"
 categories: ["Neko:Farming"]
-author: "Zirakib Wyvern"
+author: "Eine Neko"
 draft: false
 ---
 

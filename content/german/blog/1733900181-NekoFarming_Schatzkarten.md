@@ -5,7 +5,7 @@ description: "Die Nekos machten erneut Tural unsicher auf der Suche nach großar
 date: 2024-12-11T07:57:09+01:00
 image: "/images/blog/NekoFarming_Schatzkarten.png"
 categories: ["Neko:Farming"]
-author: "Mary May"
+author: "Eine Neko"
 draft: false
 ---
 

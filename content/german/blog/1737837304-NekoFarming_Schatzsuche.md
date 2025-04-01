@@ -5,7 +5,7 @@ description: "Am heutigen Abend trafen sich wieder einige Nekos, um auf Schatzsu
 date: 2025-01-25T21:35:19+01:00
 image: "/images/blog/NekoFarming_Schatzkarten.png"
 categories: ["Neko:Farming"]
-author: "Mary May"
+author: "Eine Neko"
 draft: false
 ---
 

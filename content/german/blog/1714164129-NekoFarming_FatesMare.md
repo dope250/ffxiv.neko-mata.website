@@ -5,7 +5,7 @@ description: "Wieder ein mal fanden sich 9 kleine Nekos zusammen um auch den heu
 date: 2024-04-26T22:42:23+02:00
 image: "/images/blog/NekoFarming_Fates.png"
 categories: ["Neko:Farming"]
-author: "Mary May"
+author: "Eine Neko"
 draft: false
 ---
 
