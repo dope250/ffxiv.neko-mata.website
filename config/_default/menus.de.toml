@@ -26,7 +26,7 @@ weight = 4
 [[main]]
 weight = 1
 parent = "Die FC"
-name = "📜 Blog"
+name = "📜 Ereignisse"
 url = "blog/"
 
 [[main]]
