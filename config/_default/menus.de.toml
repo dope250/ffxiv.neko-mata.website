@@ -26,7 +26,7 @@ weight = 4
 [[main]]
 weight = 1
 parent = "Die FC"
-name = "📜 Ereignisse"
+name = "📜 Erlebnisse"
 url = "blog/"
 
 [[main]]
@@ -48,10 +48,10 @@ name = "Die Nekos"
 url = "about/"
 weight = 1
 
-[[footer]]
-name = "Blog"
-url = "blog/"
-weight = 2
+#[[footer]]
+#name = "Blog"
+#url = "blog/"
+#weight = 2
 
 [[footer]]
 name = "Privacy Policy"

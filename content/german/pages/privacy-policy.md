@@ -29,11 +29,13 @@ Eingebettete Videos greifen auf externe Server zurück und müssen mit einem exp
 
 Nüchts.
 
-Das Hosting läuft über Azure in einem europäischen Rechenzentrum. Beim Aufruf der Website werden nur technisch notwendige Informationen übermittelt.
+Beim Aufruf der Website werden nur technisch notwendige Informationen übermittelt.
 
-#### Blog?
+#### Erlebnisberichte?
 
-* Jeder Blog Eintrag enthält, den zu diesem Zeitpunkt, in Final Fantasy XIV verwendeten Charakternamen als Autor mit eigener Autorenseite. Der Autor wird bei Austritt aus der Freien Gesellschaft zügig anonymisiert bzw. entfernt.
+Erlebnisberichte werden von Nekos zu aktuellen Events verfasst. Die Beiträge dazu werden im Discord verfasst und kopiert.
+
+* Jeder Erlebnis Eintrag enthält, den zu diesem Zeitpunkt, in Final Fantasy XIV verwendeten Charakternamen als Autor mit eigener Autorenseite. Der Autor wird bei Austritt aus der Freien Gesellschaft zügig anonymisiert bzw. entfernt.
 * Inhaltlich werden keine charakter- oder personenbezogenen Informationen veröffentlicht.
 * Sollen spezielle Einträge dennoch entfernt werden, aus welchen Gründen auch immer, gerne via Discord (#dope250) oder dem [Kontaktformular](/contact) melden.
 * Ein [Neko:Portrait](/about) wird nur mit der jeweiligen Zustimmung dieser Neko erstellt und bei Austritt entfernt.
@@ -46,7 +48,6 @@ Alle Screenshots; Logos; Videos; Music und/oder Namensnennung(en) aus dem Spiel 
 FINAL FANTASY, FINAL FANTASY XIV, FFXIV, SQUARE ENIX, and the SQUARE ENIX logo are registered trademarks or trademarks of Square Enix Holdings Co., Ltd.  
 Neko:Mata is not endorsed by SQUARE ENIX.
 
-Einige Kollagen enthalten zusätzlich freies Bildmaterial von [Pixabay](https://pixabay.com/).
+Einige Kollagen können zusätzlich freies Bildmaterial von [Pixabay](https://pixabay.com/) enthalten.
 
 Made with [Hugo](https://gohugo.io). [Hugoplate](https://github.com/zeon-studio/hugoplate) designed & developed by [Zeon Studio](https://zeon.studio) with minor changes from [eP](https://electronicping.net).
-
