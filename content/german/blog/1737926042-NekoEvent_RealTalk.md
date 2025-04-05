@@ -5,7 +5,7 @@ description: "Fünf Nekos fanden sich zusammen um über zwei Themen zu sprechen.
 date: 2025-01-26T22:14:13+01:00
 image: "/images/blog/NekoEvent_Realtalk.png"
 categories: ["Neko:Event"]
-author: "Valda Celeste"
+author: "Eine Neko"
 draft: false
 ---
 

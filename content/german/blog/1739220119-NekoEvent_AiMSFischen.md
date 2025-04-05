@@ -5,7 +5,7 @@ description: "An einem schönen Samstag, dem Alles ist möglich Samstag, verabre
 date: 2025-02-04T19:20:27+01:00
 image: "/images/blog/NekoAimS.png"
 categories: ["Neko:Event"]
-author: "Valda Celeste"
+author: "Eine Neko"
 draft: false
 ---
 

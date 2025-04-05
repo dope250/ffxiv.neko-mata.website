@@ -5,7 +5,7 @@ description: "Zunächst haben sich 7 Nekos versammelt um Schätze zu sammeln und
 date: 2025-02-02T19:20:27+01:00
 image: "/images/blog/NekoFarming_Schatzkarten.png"
 categories: ["Neko:Farming"]
-author: "Valda Celeste"
+author: "Eine Neko"
 draft: false
 ---
 

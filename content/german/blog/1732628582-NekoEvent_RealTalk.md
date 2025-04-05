@@ -5,7 +5,7 @@ description: ""
 date: 2024-11-26T14:43:12+01:00
 image: "/images/blog/NekoEvent_Realtalk.png"
 categories: ["Neko:Event"]
-author: "Valda Celeste"
+author: "Eine Neko"
 draft: false
 ---
 

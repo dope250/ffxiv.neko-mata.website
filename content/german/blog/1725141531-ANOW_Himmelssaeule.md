@@ -5,7 +5,7 @@ description: "Vier erfahrene Abenteurer wagten sich in die Himmelssäule um das 
 date: 2024-08-31T23:59:08+02:00
 image: "/images/blog/ANOW.png"
 categories: ["Alles Neko, oder was?!"]
-author: "Valda Celeste"
+author: "Eine Neko"
 draft: false
 ---
 
