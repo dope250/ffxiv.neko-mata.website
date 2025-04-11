@@ -61,3 +61,4 @@ ToDos:
 * Magazines (Tomberry Gazette?)?
 * Eventposter?
 * Widget: Authors
+* Update Theme for newer hugo versions
