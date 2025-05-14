@@ -1,7 +1,7 @@
 ---
 title: "Nekos Next Quizmaster"
 meta_title: ""
-description: ""
+description: "Am heutigem Samstag veranstalteten unsere Eventnekos ein Quiz der besonderen Art ... ein Dungeon-Quiz unter dem Motto Nekos Next Quizmaster."
 date: 2025-05-12T21:55:16+02:00
 image: "/images/blog/NekoEvent.png"
 categories: ["Neko:Event"]
