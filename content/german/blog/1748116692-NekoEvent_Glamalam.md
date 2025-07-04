@@ -3,7 +3,7 @@ title: "Glamalam"
 meta_title: ""
 description: "Das heute Glamalam stand ganz unter dem Motto Raumfahrer und Weltraumwanderer."
 date: 2025-05-24T21:58:18+02:00
-image: "/images/blog/image-placeholder.png"
+image: "/images/blog/NekoEvent_Glamalam.png"
 categories: ["Neko:Event"]
 author: "Yuuki Farron"
 draft: false
