@@ -1,5 +1,5 @@
 ---
-title: "Gallerie"
+title: "📷 Gallerie"
 meta_title: ""
 description: "Gallerie der FC Neko:Mata"
 draft: false
@@ -7,10 +7,12 @@ draft: false
 
 {{< image src="images/collage.jpg" caption="" alt="Kollage aus Bildern von verganenen Events" position="center" command="fill" option="q100" class="img-fluid" title="" webp="false" >}}
 
-#### Lust auf mehr?
+#### Erlebe die Hightlights unserer Events!
 
-Alle aktuelle Bilder finden sich auf der [Bilderarchiv Seite](https://img.electronicping.net/album/Final-Fantasy-XIV-Neko%3AMata.28i) im extra dafür angelegten Album **Neko:Mata**.
+In unserer Galerie findest du ausgewählte Momentaufnahmen vergangener und aktueller Veranstaltungen rund um Neko:Mata - von stimmungsvollen Treffen über kreative Workshop bis hin zu besonderen Community-Events.
 
-Schaut auch gerne in den [Sub-Alben](https://img.electronicping.net/album/Final-Fantasy-XIV-Neko%3AMata.28i/sub/?sort=name_asc), dort gibt es mehr zu spezifizierten Events!
+Lass dich von der Atmosphäre inspirieren und entdecke, was unsere Events so besonders macht.
 
-<!-- <embed src="https://img.electronicping.net/album/Final-Fantasy-XIV-Neko%3AMata.28i" style="width:500px; height: 300px;"> -->
+[👉 Hier geht's zur Galerie!](https://img.electronicping.net/album/Final-Fantasy-XIV-Neko%3AMata.28i)
+
+[👉 Unter-Alben zu einzelnen Events](https://img.electronicping.net/album/Final-Fantasy-XIV-Neko%3AMata.28i/sub/?sort=name_asc)

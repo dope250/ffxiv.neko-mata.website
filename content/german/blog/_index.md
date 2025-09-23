@@ -1,5 +1,5 @@
 ---
-title: "Erlebnisse"
+title: "📜 Erlebnisse"
 meta_title: ""
-description: "Blog der Freien Gesellschaft Neko:Mata"
+description: "Erlebnis-Blog der Freien Gesellschaft Neko:Mata"
 ---

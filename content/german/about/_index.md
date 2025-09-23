@@ -6,14 +6,14 @@ image: "/images/NekoMata_Logo.svg"
 draft: false
 ---
 
-> Eine Nekomata ist ein fiktives Wesen aus dem japanischen Volksglauben, das sich aus einer Hauskatze entwickeln kann, aber auch wild in bestimmten Bergregionen Japans und Chinas hausen soll. Sie gehört zur Gruppe der höheren Dämonen, der Yōkai. - Wikipedia
+> Eine Nekomata ist ein fiktives Wesen aus dem japanischen Volksglauben, das sich aus einer Hauskatze entwickeln kann, aber auch wild in bestimmten Bergregionen Japans und Chinas hausen soll. Sie gehört zur Gruppe der höheren Dämonen, der Yōkai. - aus [Wikipedia](https://de.wikipedia.org/wiki/Nekomata)
 
-#### ฅ^•ﻌ•^ฅ
+#### 🐾
 
-Unser Altersdurchschnitt liegt bei 30+. Wir erzählen uns manchmal gerne schmutzige Witze, bekommen aber auch dafür jeden Tag beim Einloggen mindestens einen Flachwitz oder Anmachspruch aufgedrückt.
+🧓 Unser Altersdurchschnitt liegt bei stolzen 30+, und wir nehmen das Abenteuer des Lebens mit einem Augenzwinkern. Manchmal fliegen bei uns schmutzige Witze wie Koboldfunken durch den Chat – doch keine Sorge, dafür erwartet jeden beim Einloggen mindestens ein harmloser Flachwitz oder ein frecher Spruch, der uns zum Schmunzeln bringt.
 
-Unsere Geduld ist grenzenlos, denn wir wissen, dass guter Content Zeit und Mühe erfordert. Wir haben kein Problem damit, durch unsere Fehler, auch mal auf dem Boden zu liegen und die Mechaniken zu lernen während die Profis den Inhalt mit ihrer Leidenschaft und Können rocken.
+⏳ Geduld ist unsere geheime Stärke: Wir wissen, dass große Taten und epische Abenteuer Zeit brauchen. Wir scheuen uns nicht, auch einmal auf dem Boden zu landen, um Mechaniken zu meistern – während die wahren Helden mit Leidenschaft und Können die Schlachtfelder rocken.
 
-Wir sind ein Team, das sich gegenseitig unterstützt und inspiriert, und wir sind stolz darauf, ein gemeinsames Ziel zu erreichen und dabei Spaß zu haben.
+🤝 Immer mit einer Prise Spaß und guter Laune!
 
 {{< gallery dir="images/gallery/nekos" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}

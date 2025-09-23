@@ -1,4 +1,4 @@
-############# German navigation ##############
+############# English navigation ##############
 
 # main menu
 [[main]]
@@ -7,31 +7,31 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "Die Nekos"
+name = "Nekos"
 url = "about/"
 weight = 2
 
 [[main]]
-name = "📷 Gallerie"
+name = "📷 Gallery"
 url = "gallery/"
 weight = 3
 
 
 # FC content
 [[main]]
-name = "⚜️ Freie Gesellschaft"
+name = "⚜️ Free Company"
 hasChildren = true
 weight = 4
 
 [[main]]
 weight = 1
-parent = "⚜️ Freie Gesellschaft"
-name = "📜 Erlebnisse"
+parent = "⚜️ Free Company"
+name = "📜 Adventures"
 url = "blog/"
 
 [[main]]
-weight = 2
-parent = "⚜️ Freie Gesellschaft"
+weight = 1
+parent = "⚜️ Free Company"
 name = "📅 Events"
 url = "events/"
 
@@ -44,14 +44,9 @@ url = "plots/"
 
 # footer menu
 [[footer]]
-name = "Die Nekos"
+name = "Members"
 url = "about/"
 weight = 1
-
-#[[footer]]
-#name = "Blog"
-#url = "blog/"
-#weight = 2
 
 [[footer]]
 name = "Privacy Policy"

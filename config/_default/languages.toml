@@ -1,6 +1,12 @@
 ################ German language ##################
 [de]
-languageName = "De"
+languageName = "Deutsch"
 languageCode = "DE-de"
 contentDir = "content/german"
 weight = 1
+
+[en]
+languageName = "English"
+languageCode = "EN-en"
+contentDir = "content/english"
+weight = 2
