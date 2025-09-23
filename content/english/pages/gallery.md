@@ -1,5 +1,5 @@
 ---
-title: "Gallery"
+title: "📷 Gallery"
 meta_title: ""
 description: "Free Company Neko:Mata Gallery"
 draft: false
