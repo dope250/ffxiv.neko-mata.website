@@ -21,7 +21,7 @@ features:
       - "The opportunity to actively participate in the community"
       - "A well-structured discord for wonderfully chaotic nekos and their friends"
       - "A place in our house [**Neko:Katzenkörbchen**](/plot_katzenkoerbchen)in Shirogane District 25; Plot 60"
-      - "A house for our events: [** neko: events **] (/plot_events) Shirogane 25th district, Plot 59 incl. FC for our alt chars"
+      - "A house for our events: [**Neko:Events**](/plot_events) Shirogane 25th district, Plot 59 incl. FC for our alt chars"
     button:
       enable: false
       label: "Get Started Now"

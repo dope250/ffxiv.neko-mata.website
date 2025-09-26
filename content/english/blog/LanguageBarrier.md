@@ -2,7 +2,7 @@
 title: "First Time?"
 meta_title: ""
 description: "Sorry, we are a mostly german speaking guild."
-date: 2024-02-26T05:00:00Z
+date: 2025-09-24T05:00:00Z
 image: "/images/blog/NekoEvent.png"
 categories: ["Neko:Event"]
 author: "Dopine L. Faerondal"
