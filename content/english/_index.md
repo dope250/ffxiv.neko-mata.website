@@ -20,6 +20,7 @@ features:
       - "A friendly & helpful community"
       - "The opportunity to actively participate in the community"
       - "A well-structured discord for wonderfully chaotic nekos and their friends"
+      - "A internal mentor programm for new players"
       - "A place in our house [**Neko:Katzenkörbchen**](/plot_katzenkoerbchen)in Shirogane District 25; Plot 60"
       - "A house for our events: [**Neko:Events**](/plot_events) Shirogane 25th district, Plot 59 incl. FC for our alt chars"
     button:
@@ -41,10 +42,11 @@ features:
       - "Fates ✅"
       - "Real Talk! ✅"
       - "Ladies Night ✅"
-      - "Pizza Evenings ✅"
       - "Movie Night ✅"
       - "Game Night ✅"
       - "Mini Games ✅"
+      - "Everything Is Possible Saturday ✅"
+      - "Community Day"
     button:
       enable: false
       label: "Get Started Now"

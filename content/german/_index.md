@@ -19,6 +19,7 @@ features:
     bulletpoints:
       - "Eine freundliche & hilfsbereite Community"
       - "Die Möglichkeit dich aktiv an der Community zu beteiligen"
+      - "Ein Mentoren Programm für neue SpielerInnen"
       - "Einen gut strukturierten Discord für herrlich chaotische Nekos und deren Freunde"
       - "Ein Plätzchen in unserem Haus [**Neko:Katzenkörbchen**](/plot_katzenkoerbchen) Shirogane 25., Bezirk 60"
       - "Ein Haus für unsere Events: [**Neko:Events**](/plot_events) Shirogane 25. Bezirk, 59 inkl. FC für unsere Alt Chars"
@@ -41,10 +42,11 @@ features:
       - "Fates ✅"
       - "Real Talk! ✅"
       - "Ladies Night ✅"
-      - "Pizza Abend ✅"
       - "Movie Night ✅"
       - "Game Night ✅"
       - "Mini Games ✅"
+      - "Alles ist möglich Samstag ✅"
+      - "Community Day ✅"
     button:
       enable: false
       label: "Get Started Now"
