@@ -65,8 +65,8 @@ image = "images/og-image.jpg"
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/matomo-analytics
 [matomo]
 enable = false
-url = "https://matomo.electronicping.net/"
-id = "3"
+url = "https://stats.electronicping.net/"
+id = "1"
 
 
 # site verifications
