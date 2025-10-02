@@ -27,7 +27,9 @@ Eingebettete Videos greifen auf externe Server zurück und müssen mit einem exp
 
 #### Tracking?
 
-Nüchts.
+Es werden nur Besuchszähler mit Matomo gezählt. Diese sind anonymisiert. Wenn man dies dennoch nicht möchte kann man sich hier Opt-Out'n.
+
+{{< opt-out >}}
 
 Beim Aufruf der Website werden nur technisch notwendige Informationen übermittelt.
 
