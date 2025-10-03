@@ -18,6 +18,9 @@ defaultContentLanguage = "de"
 enableEmoji = true
 tableOfContents = true
 
+#[params]
+#commentServer = "http://localhost:5888/comments"
+
 [sitemap]
 changefreq = "weekly"
 filename = "sitemap.xml"

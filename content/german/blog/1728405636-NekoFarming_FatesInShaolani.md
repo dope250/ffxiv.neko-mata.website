@@ -3,7 +3,7 @@ title: "Ein Fate kommt selten Allein"
 meta_title: ""
 description: ""
 date: 2024-10-08T18:40:50+02:00
-image: "/images/blog/image-placeholder.png"
+image: "/images/blog/NekoFarming_Fates.png"
 categories: ["Neko:Farming"]
 author: "Yuuki Farron"
 draft: false
