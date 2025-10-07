@@ -1,5 +1,5 @@
 <script type="text/javascript" src="/js/cactus.js"></script>
-<!-- <link rel="stylesheet" href="https://latest.cactus.chat/style.css" type="text/css"> -->
+<link rel="stylesheet" href="/cactus.css" type="text/css">
 <div id="comment-section"></div>
 <script>
 initComments({
@@ -7,6 +7,7 @@ initComments({
   defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
   serverName: "cactus.chat",
   siteName: "neko-mata",
-  commentSectionId: "{{ index .Params 0 }}"
+  commentSectionId: "{{ index .Params 0 }}",
+  loginEnabled: false
 })
 </script>

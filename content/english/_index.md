@@ -46,7 +46,7 @@ features:
       - "Game Night ✅"
       - "Mini Games ✅"
       - "Everything Is Possible Saturday ✅"
-      - "Community Day"
+      - "Community Day ✅"
     button:
       enable: false
       label: "Get Started Now"

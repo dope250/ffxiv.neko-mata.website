@@ -30,6 +30,11 @@ testimonials:
     avatar: "/images/avatar.png"
     content: "Ein rastloser Wanderer zwischen den Welten. Mit scharfem Blick und magischen Okularen späht er weit über die Grenzen des Königreichs hinaus, immer auf der Suche nach würdigen Seelen"
 
+  - name: "Shiny Rokon"
+    designation: "Scanner"
+    avatar: "/images/avatar.png"
+    content: "Mit charmantem Schnurren und scharfem Blick durchstreift diese Neko die Reiche auf der Suche nach neuen Abenteurern, die das Herz und den Geist der Gilde bereichern."
+
   - name: "Jacquie Sinjabu"
     designation: "Operator"
     avatar: "/images/avatar.png"

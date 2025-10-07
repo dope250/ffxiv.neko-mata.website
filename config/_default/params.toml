@@ -56,7 +56,7 @@ show_categories = true
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["FF14, Final Fantasy XIV, Free Company, Gilde, MMORPG, Online-Rollenspiel, Spielergruppe, Raids, Dungeons, Abenteuer, Erlebnisse, Community, Events, Event-Koordinator, Teamplay, Gildenchronik, Tauchboote, Rekruten, Rollen, Commander, Operator, Spaß, Humor, Flachwitze, Gildenaktivitäten, Social, Spielgemeinschaft, PvE, PvP, Quests, Online-Gaming, Rollenspiel, Spieler, MMO, Fantasy, Ingame-Story, Gildenleben"]
+keywords = ["FF14, Final Fantasy XIV, Free Company, Gilde, Clan, MMORPG, Online-Rollenspiel, Spielergruppe, Raids, Dungeons, Abenteuer, Erlebnisse, Community, Events, Event-Koordinator, Teamplay, Gildenchronik, Tauchboote, Rekruten, Rollen, Commander, Operator, Spaß, Humor, Flachwitze, Gildenaktivitäten, Social, Spielgemeinschaft, PvE, PvP, Quests, Online-Gaming, Rollenspiel, Spieler, MMO, Fantasy, Ingame-Story, Gildenleben"]
 description = "Erlebe die Welt von Final Fantasy XIV mit unserer Free Company. Raids, Dungeons, PvE & PvP, spannende Quests und Gilden-Events erwarten dich. Werde Teil unserer Community voller Abenteuer, Humor und Teamgeist!"
 author = "Fio Inari"
 image = "images/og-image.jpg"

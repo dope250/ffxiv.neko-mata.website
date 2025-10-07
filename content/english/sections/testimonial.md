@@ -30,6 +30,11 @@ testimonials:
     avatar: "/images/avatar.png"
     content: "A restless hiker between the worlds. With a sharp look and magical eyepiece, he spies far beyond the limits of the kingdom, always looking for more worthy souls"
 
+  - name: "Shiny Rokon"
+    designation: "Advert"
+    avatar: "/images/avatar.png"
+    content: "With a charming purr and sharp gaze, the Neko roams the realms in search of new adventurers who will enrich the heart and spirit of the guild."
+
   - name: "Jacquie Sinjabu"
     designation: "Operator"
     avatar: "/images/avatar.png"

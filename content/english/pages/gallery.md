@@ -15,4 +15,6 @@ Let yourself be inspired by the atmosphere and discover what makes our events so
 
 [👉 Click here for the gallery!](https://img.electronicping.net/album/Final-Fantasy-XIV-Neko%3AMata.28i)
 
-[👉 More to individual events can be found here!](https://img.electronicping.net/album/Final-Fantasy-XIV-Neko%3AMata.28i/sub/?sort=name_asc)
+We are trying to tag all pictures correctly. But due to time constraints it could happen that we simply forget it 🙈
+
+[👉 To view some fo the old events which sorted in sub-albums you can go here!](https://img.electronicping.net/album/Final-Fantasy-XIV-Neko%3AMata.28i/sub/?sort=name_asc)
