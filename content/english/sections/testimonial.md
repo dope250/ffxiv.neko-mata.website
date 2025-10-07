@@ -51,6 +51,6 @@ testimonials:
     content: "A mysterious chronicler in a cat -like figure. With nimble paws and sharp eyes, she captures the adventures in magical picture rollers. 📸 Shoot!"
 
 # don't create a separate page
-_build:
+build:
   render: "never"
 ---

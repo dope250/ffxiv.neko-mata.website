@@ -51,6 +51,6 @@ testimonials:
     content: "Eine geheimnisvolle Chronistin in einer katzenhaften Gestalt. Mit flinken Pfoten und scharfen Augen hält sie die Abenteuer in magischen Bildrollen fest. 📸 Knips!"
 
 # don't create a separate page
-_build:
+build:
   render: "never"
 ---

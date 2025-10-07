@@ -4,7 +4,7 @@
 
 ## How To
 
-* Install Hugo extended (134.2)
+* Install Hugo extended (v0.151.0+extended+withdeploy)
 * Install NPM
 * Clone Repo
 * npm install (>24)

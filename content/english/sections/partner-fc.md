@@ -9,6 +9,6 @@ button:
   link: "https://de.finalfantasyxiv.com/lodestone/freecompany/9280089244661973681/"
 
 # don't create a separate page
-_build:
+build:
   render: "never"
 ---

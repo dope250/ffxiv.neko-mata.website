@@ -8,7 +8,7 @@ theme = "hugoplate"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
 timeZone = "Europe/Berlin"
 # post pagination
-paginate = 6 # see https://gohugo.io/extras/pagination/
+pagerSize = 6 # see https://gohugo.io/extras/pagination/
 # post excerpt
 summaryLength = 10 # see https://gohugo.io/content-management/excerpts/
 # disable language
@@ -17,9 +17,6 @@ hasCJKLanguage = false #  If hasCJKLanguage true, auto-detect Chinese/Japanese/K
 defaultContentLanguage = "de"
 enableEmoji = true
 tableOfContents = true
-
-#[params]
-#commentServer = "http://localhost:5888/comments"
 
 [sitemap]
 changefreq = "weekly"
@@ -35,7 +32,7 @@ filename = "sitemap.xml"
 
 ########################## Permalinks ############################
 [permalinks.page]
-"pages" = "/:slugorfilename/"
+"pages" = "/:slugorcontentbasename/"
 
 
 ############################# Modules ############################
