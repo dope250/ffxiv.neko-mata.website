@@ -1,12 +1,12 @@
 ---
 enable: true
-title: "Your Homeworld is not on Alpha?"
-image: "/images/communitycard_AshesOfDreams.png"
-description: "Take a look at our partnered Free Company **Ashes of Dreams** on **Raiden**!"
+title: "Social media"
+image: "/images/icon512.png"
+description: "Take a look at our Instagram, made by our media team!"
 button:
   enable: true
-  label: "Ashes of Dreams"
-  link: "https://de.finalfantasyxiv.com/lodestone/freecompany/9280089244661973681/"
+  label: "Instagram"
+  link: "https://instagram.com/nekomataffxiv"
 
 # don't create a separate page
 build:
