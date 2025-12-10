@@ -3,7 +3,7 @@ title: "Wer suchet, der findet!"
 meta_title: ""
 description: "Heute war wieder Event Abend bei den Nekos und dieses Mal gab es verstecken spielen"
 date: 2025-11-12T21:36:07+01:00
-image: "/images/blog/image-placeholder.png"
+image: "/images/blog/NekoEvent.png"
 categories: ["Neko:Event"]
 author: "Jacquie Sinjabu"
 draft: false
