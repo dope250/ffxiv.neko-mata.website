@@ -25,15 +25,13 @@ Wir wünschen euch viel Spass beim lesen!
 
 > Shiny: ja, damals ging mein pc kaputt und dann hab ich mir eine Playstation geholt, habe mir dann sämtliche spiele gekauft und bin dann am ende doch bei ff14 hängengeblieben 🙂 
 
-> Yuuki: also du dann ff installiert hast 
-
 > Muddel: weist du noch mit welcher klasse und rasse du damals angefangen hast?
 
 > Shiny: ich habe damals mit einer gladiator miqo angefangen, da ich dachte das es eine klassische meele klasse wäre :D
 
 > Muddel: und welche Klasse ist deine Lieblingsklasse bzw Main klasse?
 
-> Shiny: der whitemage,es hat aber gedauert bis ich zu der klasse gekommen bin
+> Shiny: der whitemage, es hat aber gedauert bis ich zu der klasse gekommen bin
 
 > Muddel: und hast du auch irgendwelche Ziele hier in ff?
 
@@ -43,7 +41,7 @@ Wir wünschen euch viel Spass beim lesen!
 
 > Shiny: ich hab keine ziele verdammt xD
 
-> Yuuki: so gar nix,savage ,ultimate etc?
+> Yuuki: so gar nix, savage, ultimate etc?
 
 > Shiny: ja doch entspanntes zocken,laufe gerne unreal und….extremes für die Mounts hab aber nich nachgeguckt wie die heisen xD
 
@@ -103,7 +101,7 @@ Wir wünschen euch viel Spass beim lesen!
 
 > Muddel: Verständlich :D andere Frage,was bedeutet den Neko:Mata für dich?
 
-> Shiny: ein ruhiger ort,geduldige menschen ,verrückte menschen… ja das bedeutet nekomata für mich :)
+> Shiny: ein ruhiger ort, geduldige menschen, verrückte menschen… ja das bedeutet nekomata für mich :)
 
 > Muddel: dashört sich doch gut an
 
@@ -115,7 +113,7 @@ Wir wünschen euch viel Spass beim lesen!
 
 > Muddel: ok wenn du dich beschreiben müsstest in mehreren worten,wie wäre das? XD
 
-> Shiny: verpeilt,tollpatschig,kann gut zuhören,und manchmal lost :D und immer gut gelaunt
+> Shiny: verpeilt, tollpatschig, kann gut zuhören und manchmal lost :D und immer gut gelaunt
 
 > Muddel: und warum genau diese?
 
