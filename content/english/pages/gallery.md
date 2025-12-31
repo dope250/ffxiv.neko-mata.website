@@ -9,7 +9,7 @@ draft: false
 
 #### Experience the highlights of our events!
 
-In our gallery you will find selected snapshots of past and current events related to Neko:Mata - from atmospheric meetings to creative workshops to special community events.
+In our gallery you will find selected snapshots of past and current events related to Neko:Mata; from atmospheric meetings to creative workshops to special community events.
 
 Let yourself be inspired by the atmosphere and discover what makes our events so special.
 

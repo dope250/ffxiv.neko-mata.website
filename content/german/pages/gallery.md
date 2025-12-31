@@ -9,7 +9,7 @@ draft: false
 
 #### Erlebe die Hightlights unserer Events!
 
-In unserer Galerie findest du ausgewählte Momentaufnahmen vergangener und aktueller Veranstaltungen rund um Neko:Mata - von stimmungsvollen Treffen über kreative Workshop bis hin zu besonderen Community-Events.
+In unserer Galerie findest du ausgewählte Momentaufnahmen vergangener und aktueller Veranstaltungen rund um Neko:Mata: Von stimmungsvollen Treffen über kreative Workshop bis hin zu besonderen Community-Events.
 
 Lass dich von der Atmosphäre inspirieren und entdecke, was unsere Events so besonders macht.
 
