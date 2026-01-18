@@ -5,6 +5,11 @@
       "icon": "fab fa-instagram",
       "link": "https://instagram.com/nekomataffxiv"
     },
+        {
+      "name": "Twitch",
+      "icon": "fab fa-twitch",
+      "link": "https://www.twitch.tv/nekomataffxiv"
+    },
     {
       "name": "GitHub",
       "icon": "fab fa-github",

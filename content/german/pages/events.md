@@ -11,6 +11,13 @@ Hier findest du eine Übersicht über aktuelle und kommende Events rund um Neko:
 
 Bitte beachte: Die hier angezeigten Events dienen nur zur Orientierung. Die **aktuellsten Informationen und kurzfristige Änderungen** findest du direkt auf unserem Discord-Server.
 
-🎉 Schau regelmäßig vorbei. Oder noch besser: sei live auf Discord dabei!
+🎉 Schau regelmäßig vorbei. Oder noch besser: sei mit dabei auf Discord!
 
 {{< raidhelper >}}
+
+### Livestreaming
+
+Ihr möchtet gerne vorab schauen, wie so ein Event bei den Nekos im Detail aussieht? Dann schaut [auf Twitch](https://www.twitch.tv/nekomataffxiv) vorbei!  
+Einige ausgewählte Events werden hier live übertragen: Mitsamt unseren wunderschönen himmlischen Engelsstimmen!
+
+{{< twitch >}}
