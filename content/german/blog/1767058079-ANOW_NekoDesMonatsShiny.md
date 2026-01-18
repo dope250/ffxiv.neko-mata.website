@@ -1,5 +1,5 @@
 ---
-title: "Neko Des MonatShiny: Shiny"
+title: "Neko des Monat: Shiny"
 meta_title: ""
 description: ""
 date: 2025-12-30T02:28:07+01:00
