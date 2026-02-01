@@ -17,7 +17,7 @@ testimonials:
 
   - name: "Yuuki Farron"
     designation: "Operator"
-    avatar: "/images/avatar.png"
+    avatar: "/images/avatar-yuuki.png"
     content: "With nautical cards from ancient times and crystal lenses, he searches the oceans for diving boats and mystical wrecks, while he guards the boundary stones and secret paths of secular owners on land."
 
   - name: "Argoni Pepperoni"
