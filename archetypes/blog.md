@@ -12,7 +12,7 @@ draft: false
 
 text
 
-<!-- more -->
+<!--more-->
 
 text 2
 
