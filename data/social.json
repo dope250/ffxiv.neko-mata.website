@@ -10,6 +10,11 @@
       "icon": "fab fa-twitch",
       "link": "https://www.twitch.tv/nekomataffxiv"
     },
+        {
+      "name": "YouTube",
+      "icon": "fab fa-youtube",
+      "link": "https://www.youtube.com/@NekoMata-ffxiv"
+    },
     {
       "name": "GitHub",
       "icon": "fab fa-github",

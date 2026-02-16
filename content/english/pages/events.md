@@ -18,7 +18,7 @@ Please note: The events displayed here are only used for orientation. The most *
 
 ### Livestreaming
 
-Would you like to get a sneak peek at what a Neko event looks like in detail? Then check us out [on Twitch](https://www.twitch.tv/nekomataffxiv)!
+Would you like to get a sneak peek at what a Neko event looks like in detail? Then check us out [on Twitch](https://www.twitch.tv/nekomataffxiv) or [on YouTube](https://www.youtube.com/@NekoMata-ffxiv)!
 
 Some select events will be streamed live here: complete with our beautiful, god-given angelic voices!
 

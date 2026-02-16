@@ -17,7 +17,7 @@ Bitte beachte: Die hier angezeigten Events dienen nur zur Orientierung. Die **ak
 
 ### Livestreaming
 
-Ihr möchtet gerne vorab schauen, wie so ein Event bei den Nekos im Detail aussieht? Dann schaut [auf Twitch](https://www.twitch.tv/nekomataffxiv) vorbei!  
+Ihr möchtet gerne vorab schauen, wie so ein Event bei den Nekos im Detail aussieht? Dann schaut [auf Twitch](https://www.twitch.tv/nekomataffxiv) oder [auf Youtube](https://www.youtube.com/@NekoMata-ffxiv) vorbei!  
 Einige ausgewählte Events werden hier live übertragen: Mitsamt unseren wunderschönen himmlischen Engelsstimmen!
 
 {{< twitch >}}
