@@ -47,8 +47,8 @@ testimonials:
 
   - name: "Dopine Faerondal"
     designation: "Foto:Neko"
-    avatar: "/images/avatar.png"
-    content: "A mysterious chronicler in a cat -like figure. With nimble paws and sharp eyes, she captures the adventures in magical picture rollers. 📸 Shoot!"
+    avatar: "/images/avatar-dopine.png"
+    content: "A chronicler in a cat -like figure. With paws and sharp eyes, she captures the adventures in magical pictures. 📸 Shoot!"
 
 # don't create a separate page
 build:

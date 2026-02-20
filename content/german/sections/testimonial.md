@@ -17,7 +17,7 @@ testimonials:
 
   - name: "Yuuki Farron"
     designation: "Operator"
-    avatar: "/images/avatar.png"
+    avatar: "/images/avatar-yuuki.png"
     content: "Mit nautischen Karten aus alter Zeit und Kristalllinsen durchsucht er die Ozeane nach Tauchbooten und mystischen Wracks, während er an Land die Grenzsteine und geheime Pfade der weltlichen Besitze bewacht."
 
   - name: "Argoni Pepperoni"
@@ -47,8 +47,8 @@ testimonials:
 
   - name: "Dopine Faerondal"
     designation: "Foto:Neko"
-    avatar: "/images/avatar.png"
-    content: "Eine geheimnisvolle Chronistin in einer katzenhaften Gestalt. Mit flinken Pfoten und scharfen Augen hält sie die Abenteuer in magischen Bildrollen fest. 📸 Knips!"
+    avatar: "/images/avatar-dopine.png"
+    content: "Eine Chronistin in katzenhaften Gestalt. Mit flinken Pfoten und scharfen Augen hält sie die Abenteuer in magischen Bildrollen fest. 📸 Knips!"
 
 # don't create a separate page
 build:
