@@ -52,7 +52,7 @@ features:
       - "Mentoring for Classes and Content ✅"
       - "Everything Neko or what ✅"
       - "Kreszentia ✅"
-button:
+    button:
       enable: false
       label: "Get Started Now"
       link: "#"
