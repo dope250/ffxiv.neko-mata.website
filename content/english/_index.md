@@ -47,7 +47,12 @@ features:
       - "Mini Games ✅"
       - "Everything Is Possible Saturday ✅"
       - "Community Day ✅"
-    button:
+      - "Chaotic Alliance Raid ✅"
+      - "Pen and Paper ✅"
+      - "Mentoring for Classes and Content ✅"
+      - "Everything Neko or what ✅"
+      - "Kreszentia ✅"
+button:
       enable: false
       label: "Get Started Now"
       link: "#"
