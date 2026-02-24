@@ -13,130 +13,132 @@ Interview mit Muddel!
 
 <!--more-->
 
-> Yuuki: Hey muddel hab gesehen du bist grad aus den schatzkarten raus und da dachte ich ich Interview dich zum runter kommen einfach mal
+> Yuuki: Hey Muddel, ich habe gesehen, du bist grad aus den Schatzkarten raus und da dachte ich, ich Interview dich zum runter kommen einfach mal
 
-> Muddel: das ne gute idee schatzkarten waren heute doch etwas stressig.
+> Muddel: Das ist eine gute Idee. Schatzkarten waren heute doch etwas stressig.
 
-> Yuuki:  ok denn hoff ich mal das es das Interview nicht wird xD und dann würde ich auch schonmal anfangen.
+> Yuuki:  Ok, dann hoffe ich mal, dass das Interview nicht stressig wird xD und dann würde ich auch schon mal anfangen.
 
-> Yuuki: weist du denn noch wann du mit Final angefangen hast?
+> Yuuki: Weist du denn noch, wann du mit Final angefangen hast?
 
-> Muddel: 9 Mai 2024,zumindest habe ich es da runterr geladen
+> Muddel: 9 Mai 2024, zumindest habe ich es da herunter geladen
 
-> Yuuki: du weißt das ja noch sehr genau
+> Yuuki: Du weist das ja noch sehr genau
 
-> Muddel:  habs grad nachgeguckt:D
+> Muddel:  Ich habe es grad nachgeguckt :D
 
-> Yuuki: gut vorbereitet xD und weist du auch noch wie du zu Final kamst?
+> Yuuki: Gut vorbereitet xD Und weist du auch noch, wie du zu Final kamst?
 
-> Muddel: durch meinen besten Freund lalabrea,der hat mich dazu gebracht und dann bin darin versumpft 
+> Muddel: Durch meinen besten Freund Lalabrea, der hat mich dazu gebracht und dann bin ich darin versumpft 
 
-> Yuuki: mit welcher Klasse und Rasse hast du denn damals gestartet?
+> Yuuki: Mit welcher Klasse und Rasse hast du denn damals gestartet?
 
-> Muddel: Dragoon und rhotgar 
+> Muddel: Dragoon und Rhotgar 
 
 > Yuuki: Ernsthaft?
 
-> Muddel:  ja bevor ich zu euch kam hab ich ne fanta geschluckt,gibt auch keine fotos davon zum glück xD
+> Muddel: Ja. Bevor ich zu euch kam, habe ich ne Fanta geschluckt. Es gibt auch keine Fotos davon zum Glück xD
 
-> Yuuki: und hast du auch eine Main oder Lieblingsklasse?
+> Yuuki: Und hast du auch eine Main- oder Lieblingsklasse?
 
-> Muddel:  Der Gunbreaker ,bin Main Tank,ist meine absolute Favorit klasse in FF
+> Muddel: Der Gunbreaker. Das ist meine absolute Favorit Klasse in Final Fantasy. Ich bin Main Tank. 
 
-> Yuuki: das klingt doch gut
+> Yuuki: Das klingt doch gut
 
-> Yuuki: du hast doch bestimmt auch noch Ziele hier in Final oder?
+> Yuuki: Du hast doch bestimmt auch noch Ziele hier in Final oder?
 
-> Muddel: erste Priorität die gunbreaker rota fehlerfrei spielen und mal einen ultimate angehen
+> Muddel: Erste Priorität ist es, die Gunbreakerrota fehlerfrei zu spielen und mal einen Ultimate angehen
 
-> Yuuki: gibt's nen bestimmten
+> Yuuki: Gibt es da einen bestimmten Ultimate?
 
-> Muddel: einfach mal ausprobieren, da wir ja Uwu schonmal angetestet haben und ich fand das schon ziemlich cool
+> Muddel: Einfach mal ausprobieren. Da wir ja Uwu schon mal angetestet haben. Ich fand das schon ziemlich cool
 
-> Yuuki: das klingt doch nach nem Plan 
+> Yuuki: Das klingt doch nach einem Plan 
 
-> Yuuki: und hast du auch ein Lieblings Mount, pet,Gebiet etc?
+> Yuuki: Und hast du auch ein Lieblings Mount, Pet, Gebiet etc.?
 
-> Muddel:  mount ja,Garlond gl2,das moped von der Insel,ich mag es einfach da ich in rl auch auf sowas stehe 
+> Muddel:  Mount ja, das Garlond gl2, dass Motorrad von der Insel. Ich mag es einfach, da ich in Reallife auch auf sowas stehe 
 
-> Yuuki: das doch cool
+> Yuuki: Das doch cool
 
-> Yuuki: Wichtige Frage,Story Skipper oder Enjoyer?
+> Yuuki: Wichtige Frage: Story Skipper oder Enjoyer?
 
-> Muddel: schwierig, teils teils, die aktuelle Story habe ich geskippt, aber es fehlen dann doch manchmal zusammen hänge xD
+> Muddel: Schwierig, teils teils. Die aktuelle Story habe ich geskippt, aber es fehlen dann doch manchmal zusammenhänge xD
 
-> Yuuki: Situations bedingt also 
+> Yuuki: Situationsbedingt also 
 
 > Yuuki: Außerhalb der Story, wie verbringst du sonst deine Zeit hier in Final?
 
-> Muddel:  unterschiedlich,daylies ,einfach vorm FC Haus stehen oder schatzkarten farmen mit bestimmten Leuten "zwinker"
+> Muddel:  Unterschiedlich. Dailys ,einfach vorm FC Haus stehen oder Schatzkarten farmen mit bestimmten Leuten "zwinker"
 
-> Yuuki: gibt's auch eine schlechte oder schöne Erfahrung die du hier gemacht hast?
+> Yuuki: Gibt es auch eine schlechte oder schöne Erfahrung, die du hier gemacht hast?
 
-> Muddel:  boah,...hmm ...überwiegend schöne aber auch schlechte :D,will ich das sagen? Das krasse war die Sache die anfang des Jahres 25 passiert ist
-Und schöne ,ja das kommt bestimmt catchy und slimy :D, das ich dich kennen gelernt habe 
-> Yuuki: ohhh "uwu" xD
+> Muddel:  Boah, ...hmm ... Überwiegend schöne,  aber auch schlechte :D Will ich das sagen? Das Krasse war die Sache, die Anfang des Jahres 2025 passiert ist.
+Und schöne ,ja das kommt bestimmt catchy und slimy :D Das ich dich kennengelernt habe 
 
-> Yuuki: kommen wir zur den Nekos,weist du denn noch wie du zu uns kamst?
+> Yuuki: Ooooh "uwu" xD
 
-> Muddel:  damals durch meinen besten Freund der war zuerst hier ,er hatte schon die bezahl version von ff gehabt ,ist hier gelandet und da ich auch gerne in eine fg wollte ,hab ich erstmal geguckt das ich die probeversion ausreize, und da ich mich dann einloggen wollte aber nicht rein kam da bezahler Priorität hatten bei Endwalker,hab ich geraged und mir darauf hin das Abo geholt xD und dann hier angefragt
+> Yuuki: Kommen wir zur den Nekos. Weist du denn noch, wie du zu uns kamst?
 
-> Yuuki:  das weiß ich noch das du mich im Garten angeschrieben hast 😄
+> Muddel: Damals durch meinen besten Freund. Der war zuerst hier. Er hatte schon die Bezahlversion von Final Fantasy gehabt. Er ist hier gelandet und da ich auch gerne in eine FG wollte, habe ich erstmal geguckt, dass ich die Probeversion ausreize. Und da ich mich dann einloggen wollte, aber nicht rein kam, da Bezahler Priorität hatten bei Endwalker, habe ich geraged und mir daraufhin das Abo geholt xD Und dann hier angefragt
+
+> Yuuki: Das weis ich noch, dass du mich im Garten angeschrieben hast :D
 
 > Muddel: xDD
 
-> Yuuki: und weist du auch noch wie lang das her ist?
+> Yuuki: Und weist du auch noch, wie lang das her ist?
 
-> Muddel: müssten ca 1,5 Jahre sein,da könntest du nachgucken
+> Muddel: Müssten ca. 1,5 Jahre sein, da könntest du nachgucken
 
-> Yuuki:  das kann ich dir auch direkt sagen da du ein monat nach mir kamst,du kamst im mai 24
+> Yuuki:  Das kann ich dir auch direkt sagen, da du ein Monat nach mir kamst. Du kamst im Mai 2024
 
-> Muddel: ok cool danke
+> Muddel: Ok cool danke
 
-> Yuuki: voll gerne 😄
+> Yuuki: Voll gerne :D
 
-> Yuuki: gibt es denn Nekos mit denen du viel Zeit hier verbringst?
+> Yuuki: Gibt es denn Nekos, mit denen du viel Zeit hier verbringst?
 
-> Muddel: ja....yuuki,mona,matze,
+> Muddel: Ja....Yuuki, Mona, Matze
 
-> Yuuki:  sind ja einige 
+> Yuuki:  Sind ja einige 
 
-> Yuuki:  ok dann weiter,hast du auch eine Lieblings Aktivität?
+> Yuuki:  Ok, dann weiter. Hast du auch eine Lieblingsaktivität?
 
-> Muddel:  das glamalam wäre gelogen,aber die Events die wir haben find ich cool,und die alles is möglich Samstage
+> Muddel:  Das Glamalam wäre gelogen, aber die Events die wir haben find ich cool und die Alles ist möglich Samstage
 
-> Yuuki: also eher die Spieler Events?
+> Yuuki: Also eher die Spieler Events?
 
-> Muddel:  ja da glamalam eher eine Hassliebe ist
+> Muddel:  Ja, da Glamalam eher eine Hassliebe ist
 
-> Yuuki: ok und warum genau diese Aktivität?
+> Yuuki: Ok und warum genau diese Aktivitäten?
 
-> Muddel:  weil die neko Events immer wieder was neues sind,ist wie ein Überraschung ei
+> Muddel: Weil die Neko Events immer wieder was neues sind, ist wie ein Überraschungsei
 
-> Yuuki: ja das klingt gut xD so,was bedeutet Neko:mata für dich?
+> Yuuki: Ja das klingt gut xD So, was bedeutet Neko:Mata für dich?
 
-> Muddel: freundschaft,Verbundenheit, safe zone,zweites Zuhause
+> Muddel: Freundschaft, Verbundenheit, Safe Zone, zweites Zuhause
 
-> Yuuki: das sind doch n paar schöne Dinge
+> Yuuki: Das sind doch ein paar schöne Dinge
 
-> Yuuki: dann beschreib dich doch mal in 3 Worten
+> Yuuki: Dann beschreib dich doch mal in 3 Worten
 
-> Muddel: ehrlich, direkt,volltrottel xD verplant
+> Muddel: Ehrlich, direkt, Volltrottel xD Verplant
 
-> Yuuki: das ist lustig xD
+> Yuuki: Das ist lustig xD
 
-> Yuuki: und warum gerade dieses?
+> Yuuki: Und warum gerade dieses?
 
-> Muddel: ich trage mein Herz auf der Zunge,bin direkt für manche sogar zu direkt,kann ein vollkommener trottel sein und verplant da ich manches erst nach dem 1000 mal raffe xD
-> Yuuki: das typische muddelige halt
+> Muddel: Ich trage mein Herz auf der Zunge, bin direkt für manche. Sogar zu direkt. Kann ein vollkommener Trottel sein und verplant, da ich manches erst nach dem 1000 mal raffe xD
 
-> Muddel:  ja das muddel Syndrom
+> Yuuki: Das typische muddelige halt
 
-> Yuuki:  eine letzte frage hätte ich,hast du eine bestimmte Aufgabe hier in der FC?
+> Muddel:  Ja, das Muddelsyndrom
 
-> Muddel: ich bin ein neko Navi,und habe es mir zur Aufgabe gemacht die beete regelmäßig zu Gießen
+> Yuuki:  Eine letzte Frage hätte ich noch: Hast du eine bestimmte Aufgabe hier in der FC?
 
-Das quiz stellt ich nicht da wir ja die Antworten kennen
-Aber trotzdem danke für die ehrlichen antworten
+> Muddel: Ich bin ein Neko Navi und habe es mir zur Aufgabe gemacht, die Beete regelmäßig zu Giesen
+
+Das Quiz stellt ich nicht da wir ja die Antworten kennen
+Aber trotzdem danke für die ehrlichen Antworten
 
 ![Die Neko des Monats: Muddel!](images/gallery/nekos/MuddelVonkopp.png)
