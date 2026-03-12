@@ -125,4 +125,6 @@ Und der schlechte Moment … naja, es gab da so gewisse Vorfälle mit Personen.
 
 > Sek: Gerne doch.
 
+Sek hat im Blitzquiz 4 von 6 Fragen beantwortet
+
 ![Die Neko des Monats: Sek!](images/gallery/nekos/SekNiichan.png)
