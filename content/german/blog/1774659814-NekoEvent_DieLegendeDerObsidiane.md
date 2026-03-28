@@ -10,10 +10,9 @@ draft: false
 ---
 
 
-In den stillen Nächten von Kugane flüstern alte Geschichten von zwei Clans, deren Rivalität so alt ist wie ihre größten Triumphe.
+In den stillen Nächten von Kugane ...
 
 <!--more-->
-
 
 > In den stillen Nächten von Kugane flüstern alte Geschichten von zwei Clans, deren Rivalität so alt ist wie ihre größten Triumphe.
 > Die Kitsune bewahren den Drachen-Obsidian, geschmiedet aus dem Herzen eines Drachen, der einst von ihren Vorfahren besiegt wurde.
@@ -58,5 +57,3 @@ Der Stolz der Kitsune wurde erschüttert, während beide Relikte nun im Besitz d
 Heute Nacht hallt der Triumph der Nekomata durch Kugane.
 Nun endlich ist die Bedrohung durch die Kitsune erschlagen und mein Clan kann in Frieden leben.
 Zumindest hoffe ich es...
-
-![Nekos die fröhlich vor der Beute, einer Schatztruhe, stehen.](images/blog/screenshots/1727027684-NekoFarming_Schatzkarten.jpeg)
